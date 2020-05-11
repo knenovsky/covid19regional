@@ -19,11 +19,12 @@ library(scales)
 require(lubridate)
 require(plotly)
 
-fn_sweden = "R:/covid19_modellierung/HK/datenintegration/data/Antal som intensivvårdas med Covid-19 per dag - Period 2020-01-01 - 2020-05-11.xlsx"
+fn_sweden = "../data/Antal som intensivvårdas med Covid-19 per dag - Period 2020-01-01 - 2020-05-11.xlsx" # https://portal.icuregswe.org/siri/report/corona.covid-dagligen
 
 
 # datum divi festlegen ----
-mydate = today() %>% as_date -1
+
+mydate = today() %>% as_date # wenn die neuesten daten noch nicht online sind, dann today() %>% as_date  -1
 mydate
 
 todo = (paste0(as_date("20-04-24") + 0:(mydate-as_date("20-04-24")) %>% as.numeric()) ) %>% as.character()
@@ -36,7 +37,7 @@ all_icu = lapply(todo, function(mydate) {
   # 
   message(mydate)
   url = paste0("https://www.divi.de/images/Dokumente/Tagesdaten_Intensivregister_CSV/DIVI_Intensivregister_", mydate, "_09-15.csv")
-  if(mydate=="20-04-28") url = "https://www.divi.de/divi-intensivregister-tagesreport-archiv/1585-divi-intensivregister-tagesreport-2020-04-28/file"
+  if(mydate=="20-04-28") url = "https://www.divi.de/divi-intensivregister-tagesreport-archiv/1585-divi-intensivregister-tagesreport-2020-04-28/file"  # wenn ein file nicht funzt, auf https://www.divi.de/register/tagesreport oder https://www.divi.de/divi-intensivregister-tagesreport-archiv link nachguggen und ergaenzen
   
   if(as_date(mydate) ==as_date("20-05-06")) url = paste0("https://www.divi.de/divi-intensivregister-tagesreport-archiv/1601-divi-intensivregister-tagesreport-",mydate,"/file")
   
@@ -50,11 +51,7 @@ all_icu = lapply(todo, function(mydate) {
   resi
   
 })
-fread('https://www.divi.de/images/Dokumente/Tagesdaten_Intensivregister_CSV/DIVI-Intensivregister_2020-05-07_09-15.csv')
 
-all_icu[[1]][kreis ==14713]
-all_icu[[2]][gemeindeschluessel ==14713]
-all_icu[[3]][gemeindeschluessel ==14713]
 
 all_icu2 = rbindlist(all_icu, fill = T, use.names = T)
 showNA(all_icu2)
@@ -77,7 +74,7 @@ all_icu4[, bundesland := ref[match_hk(all_icu4$gemeindeschluessel, ref$gemeindes
 all_icu4
 showNA(all_icu4)
 
-kreise = read_excel2("R:/covid19_modellierung/HK/datenintegration/data/04-kreise.xlsx",2, skip = 3)
+kreise = read_excel2("../data/04-kreise.xlsx",2, skip = 3)
 bl = kreise[str_length(`Schlüssel-nummer`)==2]
 bl[,`Schlüssel-nummer`:= as.numeric(`Schlüssel-nummer`)]
 all_icu4[,bundesland2 := bl[match_hk(all_icu4$bundesland, bl$`Schlüssel-nummer`),`Regionale Bezeichnung`]]
@@ -104,7 +101,7 @@ ggplot(all_icu4[grep("Leipzig, Stadt", kreis),.(faelle_covid_aktuell=sum(faelle_
 
 bl_neu = all_icu4[,sum(faelle_covid_aktuell), .(bundesland2,date_query)]
 
-bl_alt = read_excel2("R:/covid19_modellierung/HK/datenintegration/data/icu_germany4.xlsx")
+bl_alt = read_excel2("../data/icu_germany_historic.xlsx")
 
 bl_alt[, covid_akt_neu := bl_neu[match_hk(paste(bl_alt$Datum, bl_alt$Bundesland), paste(bl_neu$date_query, bl_neu$bundesland2)),V1]]
 plot(bl_alt$`COVID-19 aktuell in Behandlung`, bl_alt$covid_akt_neu, xlim = c(0,700))
@@ -114,9 +111,14 @@ abline(0,1, col = "red")
 # hole noch die aelteren ICUs, die noch kein csv haben----
 
 dput(names(bl_alt))
-bl_alt2 = bl_alt[,.(date_query = Datum, bundesland=Bundesland, faelle_covid_aktuell=`COVID-19 aktuell in Behandlung`, 
-                    faelle_covid_aktuell_beatmet= `COVID-19 beatmet`, betten_belegt = `Intensivbetten aktuell belegt`, betten_frei=`ICU_frei`,
-          ICU_frei24h,  betten_total = ICU_total)]
+bl_alt2 = bl_alt[,.(date_query = Datum, 
+                    bundesland=Bundesland,
+                    faelle_covid_aktuell=`COVID-19 aktuell in Behandlung`, 
+                    faelle_covid_aktuell_beatmet= `COVID-19 beatmet`, 
+                    betten_belegt = `Intensivbetten aktuell belegt`,
+                    betten_frei=`ICU_frei`,
+          ICU_frei24h, 
+          betten_total = ICU_total)]
        
 
 bl_alt2[,frei_typ:= ifelse(is.na(betten_frei), "frei in 24h","jetzt frei")]
@@ -206,7 +208,7 @@ sweden2
 all_icu6 = rbind(all_icu5,sweden2 , fill = T)
 
 setnames(all_icu6, "date_query", "DateRep")
-write.delim(all_icu6, paste0("R:/covid19_modellierung/HK/datenintegration/results/icu_detailed_",mydate,".txt"))
+write.delim(all_icu6, paste0("../results/020_datint_icu_detailed_",mydate,".txt"))
 #'
 #'
 #` # finalize
