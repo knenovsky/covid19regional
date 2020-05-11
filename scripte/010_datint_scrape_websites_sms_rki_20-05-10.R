@@ -83,22 +83,22 @@ both = rbind(rki_export, sms_export, fill = T)
 ccc(both)
 
 # speichern
-rki_fn = paste0("R:/covid19_modellierung/HK/datenintegration/results/rki_elektronisch_eingangsdatum_",datum_rki, ".txt")
+rki_fn = paste0("../results/010_datint_rki_elektronisch_eingangsdatum_",datum_rki, ".txt")
 rki_fn
 write.delim(rki, rki_fn)
 
-sms_fn = paste0("R:/covid19_modellierung/HK/datenintegration/results/sms_elektronisch_eingangsdatum_",datum_sms, ".txt")
+sms_fn = paste0("../results/010_datint_sms_elektronisch_eingangsdatum_",datum_sms, ".txt")
 sms_fn
 write.delim(sms, sms_fn)
 
-both_fn = paste0("R:/covid19_modellierung/HK/datenintegration/results/sms_rki_kopier_elektronisch_eingangsdatum_",datum_sms, ".txt")
+both_fn = paste0("../results/010_datint_sms_rki_kopier_elektronisch_eingangsdatum_",datum_sms, ".txt")
 both_fn
 write.delim(both, both_fn)
 
-rkibild_fn = paste0("R:/covid19_modellierung/HK/datenintegration/results/rki_elektronisch_eingangsdatum_",datum_rki, ".png")
+rkibild_fn = paste0("../results/010_datint_rki_elektronisch_eingangsdatum_",datum_rki, ".png")
 webshot(rki_html,  rkibild_fn)
 
-smsbild_fn = paste0("R:/covid19_modellierung/HK/datenintegration/results/sms_elektronisch_eingangsdatum_",datum_sms, ".png")
+smsbild_fn = paste0("../results/010_datint_sms_elektronisch_eingangsdatum_",datum_sms, ".png")
 webshot(sms_html,  smsbild_fn, delay = 2)
 
 #
