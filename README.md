@@ -1,2 +1,2 @@
 # covid19regional
-Organize Code used for COVID 19 analyses
+Organize Code used for COVID 19 analyses focusing on Saxony and Leipzig.
