@@ -1,0 +1,2119 @@
+DateRep	CountryExp	AllConfCases	AllDeaths
+03.03.2020	Landeshauptstadt Dresden	0	0
+03.03.2020	Stadt Chemnitz	0	0
+03.03.2020	Stadt Leipzig	0	0
+03.03.2020	Landkreis Bautzen	0	0
+03.03.2020	Erzgebirgskreis	0	0
+03.03.2020	Landkreis Görlitz	0	0
+03.03.2020	Landkreis Leipzig	0	0
+03.03.2020	Landkreis Meißen	0	0
+03.03.2020	Landkreis Mittelsachsen	0	0
+03.03.2020	Landkreis Nordsachsen	0	0
+03.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+03.03.2020	Vogtlandkreis	0	0
+03.03.2020	Landkreis Zwickau	0	0
+03.03.2020	Sachsen_SMS	1	0
+04.03.2020	Brandenburg	0	
+04.03.2020	Berlin	4	
+04.03.2020	Baden-Württemberg	18	
+04.03.2020	Bayern	28	
+04.03.2020	Bremen	1	
+04.03.2020	Hessen	12	
+04.03.2020	Hamburg	2	
+04.03.2020	Mecklenburg-Vorpommern	0	
+04.03.2020	Niedersachsen	1	
+04.03.2020	Nordrhein-Westfalen	76	
+04.03.2020	Rheinland-Pfalz	2	
+04.03.2020	Saarland	0	
+04.03.2020	Schleswig-Holstein	2	
+04.03.2020	Sachsen	1	
+04.03.2020	Thüringen	1	
+04.03.2020	Landeshauptstadt Dresden	0	0
+04.03.2020	Stadt Chemnitz	0	0
+04.03.2020	Stadt Leipzig	0	0
+04.03.2020	Landkreis Bautzen	0	0
+04.03.2020	Erzgebirgskreis	0	0
+04.03.2020	Landkreis Görlitz	0	0
+04.03.2020	Landkreis Leipzig	0	0
+04.03.2020	Landkreis Meißen	0	0
+04.03.2020	Landkreis Mittelsachsen	0	0
+04.03.2020	Landkreis Nordsachsen	0	0
+04.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+04.03.2020	Vogtlandkreis	0	0
+04.03.2020	Landkreis Zwickau	0	0
+04.03.2020	Sachsen_SMS	1	0
+04.03.2020	Gesamt	148	0
+05.03.2020	Brandenburg	0	
+05.03.2020	Berlin	6	
+05.03.2020	Baden-Württemberg	25	
+05.03.2020	Bayern	32	
+05.03.2020	Bremen	3	
+05.03.2020	Hessen	12	
+05.03.2020	Hamburg	2	
+05.03.2020	Mecklenburg-Vorpommern	4	
+05.03.2020	Niedersachsen	4	
+05.03.2020	Nordrhein-Westfalen	98	
+05.03.2020	Rheinland-Pfalz	6	
+05.03.2020	Saarland	0	
+05.03.2020	Schleswig-Holstein	3	
+05.03.2020	Sachsen	1	
+05.03.2020	Thüringen	1	
+05.03.2020	Landeshauptstadt Dresden	0	0
+05.03.2020	Stadt Chemnitz	0	0
+05.03.2020	Stadt Leipzig	0	0
+05.03.2020	Landkreis Bautzen	0	0
+05.03.2020	Erzgebirgskreis	0	0
+05.03.2020	Landkreis Görlitz	0	0
+05.03.2020	Landkreis Leipzig	0	0
+05.03.2020	Landkreis Meißen	0	0
+05.03.2020	Landkreis Mittelsachsen	0	0
+05.03.2020	Landkreis Nordsachsen	0	0
+05.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+05.03.2020	Vogtlandkreis	0	0
+05.03.2020	Landkreis Zwickau	0	0
+05.03.2020	Sachsen_SMS	1	0
+05.03.2020	Gesamt	197	0
+06.03.2020	Brandenburg	1	
+06.03.2020	Berlin	11	
+06.03.2020	Baden-Württemberg	46	
+06.03.2020	Bayern	46	
+06.03.2020	Bremen	3	
+06.03.2020	Hessen	16	
+06.03.2020	Hamburg	2	
+06.03.2020	Mecklenburg-Vorpommern	4	
+06.03.2020	Niedersachsen	10	
+06.03.2020	Nordrhein-Westfalen	148	
+06.03.2020	Rheinland-Pfalz	5	
+06.03.2020	Saarland	0	
+06.03.2020	Schleswig-Holstein	4	
+06.03.2020	Sachsen	1	
+06.03.2020	Thüringen	1	
+06.03.2020	Landeshauptstadt Dresden	0	0
+06.03.2020	Stadt Chemnitz	0	0
+06.03.2020	Stadt Leipzig	1	0
+06.03.2020	Landkreis Bautzen	0	0
+06.03.2020	Erzgebirgskreis	0	0
+06.03.2020	Landkreis Görlitz	0	0
+06.03.2020	Landkreis Leipzig	0	0
+06.03.2020	Landkreis Meißen	0	0
+06.03.2020	Landkreis Mittelsachsen	0	0
+06.03.2020	Landkreis Nordsachsen	0	0
+06.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+06.03.2020	Vogtlandkreis	0	0
+06.03.2020	Landkreis Zwickau	0	0
+06.03.2020	Sachsen_SMS	2	0
+06.03.2020	Gesamt	298	0
+07.03.2020	Baden-Württemberg		
+07.03.2020	Bayern		
+07.03.2020	Berlin		
+07.03.2020	Brandenburg		
+07.03.2020	Bremen		
+07.03.2020	Hamburg		
+07.03.2020	Hessen		
+07.03.2020	Mecklenburg-Vorpommern		
+07.03.2020	Niedersachsen		
+07.03.2020	Nordrhein-Westfalen		
+07.03.2020	Rheinland-Pfalz		
+07.03.2020	Saarland		
+07.03.2020	Sachsen		
+07.03.2020	Schleswig-Holstein		
+07.03.2020	Thüringen		
+07.03.2020	Landeshauptstadt Dresden	0	0
+07.03.2020	Stadt Chemnitz	0	0
+07.03.2020	Stadt Leipzig	1	0
+07.03.2020	Landkreis Bautzen	1	0
+07.03.2020	Erzgebirgskreis	0	0
+07.03.2020	Landkreis Görlitz	0	0
+07.03.2020	Landkreis Leipzig	1	0
+07.03.2020	Landkreis Meißen	0	0
+07.03.2020	Landkreis Mittelsachsen	0	0
+07.03.2020	Landkreis Nordsachsen	0	0
+07.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+07.03.2020	Vogtlandkreis	0	0
+07.03.2020	Landkreis Zwickau	0	0
+07.03.2020	Sachsen_SMS	4	0
+07.03.2020	Gesamt	384	0
+08.03.2020	Baden-Württemberg	22	
+08.03.2020	Bayern	54	
+08.03.2020	Berlin	17	
+08.03.2020	Brandenburg		
+08.03.2020	Bremen		
+08.03.2020	Hamburg		
+08.03.2020	Hessen		
+08.03.2020	Mecklenburg-Vorpommern		
+08.03.2020	Niedersachsen		
+08.03.2020	Nordrhein-Westfalen	306	
+08.03.2020	Rheinland-Pfalz		
+08.03.2020	Saarland		
+08.03.2020	Sachsen		
+08.03.2020	Schleswig-Holstein		
+08.03.2020	Thüringen		
+08.03.2020	Landeshauptstadt Dresden	3	0
+08.03.2020	Stadt Chemnitz	0	0
+08.03.2020	Stadt Leipzig	1	0
+08.03.2020	Landkreis Bautzen	4	0
+08.03.2020	Erzgebirgskreis	0	0
+08.03.2020	Landkreis Görlitz	0	0
+08.03.2020	Landkreis Leipzig	1	0
+08.03.2020	Landkreis Meißen	0	0
+08.03.2020	Landkreis Mittelsachsen	0	0
+08.03.2020	Landkreis Nordsachsen	0	0
+08.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+08.03.2020	Vogtlandkreis	0	0
+08.03.2020	Landkreis Zwickau	0	0
+08.03.2020	Sachsen_SMS	10	0
+08.03.2020	Gesamt	447	0
+09.03.2020	Baden-Württemberg	85	
+09.03.2020	Bayern	96	
+09.03.2020	Berlin	28	
+09.03.2020	Brandenburg	3	
+09.03.2020	Bremen	3	
+09.03.2020	Hamburg	4	
+09.03.2020	Hessen	17	
+09.03.2020	Mecklenburg-Vorpommern	5	
+09.03.2020	Niedersachsen	16	
+09.03.2020	Nordrhein-Westfalen	227	
+09.03.2020	Rheinland-Pfalz	16	
+09.03.2020	Saarland	1	
+09.03.2020	Sachsen	4	
+09.03.2020	Schleswig-Holstein	8	
+09.03.2020	Thüringen	1	
+09.03.2020	Landeshauptstadt Dresden	3	0
+09.03.2020	Stadt Chemnitz	0	0
+09.03.2020	Stadt Leipzig	1	0
+09.03.2020	Landkreis Bautzen	4	0
+09.03.2020	Erzgebirgskreis	0	0
+09.03.2020	Landkreis Görlitz	0	0
+09.03.2020	Landkreis Leipzig	3	0
+09.03.2020	Landkreis Meißen	0	0
+09.03.2020	Landkreis Mittelsachsen	0	0
+09.03.2020	Landkreis Nordsachsen	0	0
+09.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+09.03.2020	Vogtlandkreis	0	0
+09.03.2020	Landkreis Zwickau	0	0
+09.03.2020	Sachsen_SMS	12	0
+09.03.2020	Gesamt	514	2
+10.03.2020	Baden-Württemberg	92	
+10.03.2020	Bayern	136	
+10.03.2020	Berlin	31	
+10.03.2020	Brandenburg	3	
+10.03.2020	Bremen	4	
+10.03.2020	Hamburg	4	
+10.03.2020	Hessen	18	
+10.03.2020	Mecklenburg-Vorpommern	5	
+10.03.2020	Niedersachsen	24	
+10.03.2020	Nordrhein-Westfalen	303	
+10.03.2020	Rheinland-Pfalz	18	
+10.03.2020	Saarland	2	
+10.03.2020	Sachsen	5	
+10.03.2020	Sachsen-Anhalt	0	
+10.03.2020	Schleswig-Holstein	8	
+10.03.2020	Thüringen	1	
+10.03.2020	Landeshauptstadt Dresden	3	0
+10.03.2020	Stadt Chemnitz	3	0
+10.03.2020	Stadt Leipzig	4	0
+10.03.2020	Landkreis Bautzen	7	0
+10.03.2020	Erzgebirgskreis	0	0
+10.03.2020	Landkreis Görlitz	2	0
+10.03.2020	Landkreis Leipzig	3	0
+10.03.2020	Landkreis Meißen	1	0
+10.03.2020	Landkreis Mittelsachsen	0	0
+10.03.2020	Landkreis Nordsachsen	0	0
+10.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	1	0
+10.03.2020	Vogtlandkreis	0	0
+10.03.2020	Landkreis Zwickau	0	0
+10.03.2020	Sachsen_SMS	24	0
+10.03.2020	Gesamt	654	2
+11.03.2020	Baden-Württemberg	190	
+11.03.2020	Bayern	207	
+11.03.2020	Berlin	90	
+11.03.2020	Brandenburg	11	
+11.03.2020	Bremen	21	
+11.03.2020	Hamburg	17	
+11.03.2020	Hessen	28	
+11.03.2020	Mecklenburg-Vorpommern	11	
+11.03.2020	Niedersachsen	52	
+11.03.2020	Nordrhein-Westfalen	384	
+11.03.2020	Rheinland-Pfalz	25	
+11.03.2020	Saarland	6	
+11.03.2020	Sachsen	17	
+11.03.2020	Sachsen-Anhalt	6	
+11.03.2020	Schleswig-Holstein	14	
+11.03.2020	Thüringen	10	
+11.03.2020	Landeshauptstadt Dresden	4	0
+11.03.2020	Stadt Chemnitz	3	0
+11.03.2020	Stadt Leipzig	4	0
+11.03.2020	Landkreis Bautzen	7	0
+11.03.2020	Erzgebirgskreis	0	0
+11.03.2020	Landkreis Görlitz	2	0
+11.03.2020	Landkreis Leipzig	4	0
+11.03.2020	Landkreis Meißen	3	0
+11.03.2020	Landkreis Mittelsachsen	0	0
+11.03.2020	Landkreis Nordsachsen	0	0
+11.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	2	0
+11.03.2020	Vogtlandkreis	0	0
+11.03.2020	Landkreis Zwickau	0	0
+11.03.2020	Sachsen_SMS	29	0
+11.03.2020	Gesamt	1089	3
+12.03.2020	Baden-Württemberg	331	
+12.03.2020	Bayern	317	
+12.03.2020	Berlin	137	
+12.03.2020	Brandenburg	23	
+12.03.2020	Bremen	35	
+12.03.2020	Hamburg	60	
+12.03.2020	Hessen	59	
+12.03.2020	Mecklenburg-Vorpommern	16	
+12.03.2020	Niedersachsen	81	
+12.03.2020	Nordrhein-Westfalen	688	
+12.03.2020	Rheinland-Pfalz	52	
+12.03.2020	Saarland	8	
+12.03.2020	Sachsen	30	
+12.03.2020	Sachsen-Anhalt	14	
+12.03.2020	Schleswig-Holstein	29	
+12.03.2020	Thüringen	12	
+12.03.2020	Gesamt	1892	5
+12.03.2020	Landeshauptstadt Dresden	6	0
+12.03.2020	Stadt Chemnitz	3	0
+12.03.2020	Stadt Leipzig	6	0
+12.03.2020	Landkreis Bautzen	12	0
+12.03.2020	Erzgebirgskreis	0	0
+12.03.2020	Landkreis Görlitz	5	0
+12.03.2020	Landkreis Leipzig	8	0
+12.03.2020	Landkreis Meißen	3	0
+12.03.2020	Landkreis Mittelsachsen	0	0
+12.03.2020	Landkreis Nordsachsen	0	0
+12.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	6	0
+12.03.2020	Vogtlandkreis	0	0
+12.03.2020	Landkreis Zwickau	0	0
+12.03.2020	Sachsen_SMS	49	0
+13.03.2020	Baden-Württemberg	401	
+13.03.2020	Bayern	412	
+13.03.2020	Berlin	174	
+13.03.2020	Brandenburg	44	
+13.03.2020	Bremen	42	
+13.03.2020	Hamburg	99	
+13.03.2020	Hessen	94	
+13.03.2020	Mecklenburg-Vorpommern	21	
+13.03.2020	Niedersachsen	134	
+13.03.2020	Nordrhein-Westfalen	887	
+13.03.2020	Rheinland-Pfalz	102	
+13.03.2020	Saarland	30	
+13.03.2020	Sachsen	46	
+13.03.2020	Sachsen-Anhalt	29	
+13.03.2020	Schleswig-Holstein	45	
+13.03.2020	Thüringen	16	
+13.03.2020	Gesamt	2576	5
+13.03.2020	Landeshauptstadt Dresden	6	0
+13.03.2020	Stadt Chemnitz	3	0
+13.03.2020	Stadt Leipzig	16	0
+13.03.2020	Landkreis Bautzen	12	0
+13.03.2020	Erzgebirgskreis	0	0
+13.03.2020	Landkreis Görlitz	5	0
+13.03.2020	Landkreis Leipzig	11	0
+13.03.2020	Landkreis Meißen	3	0
+13.03.2020	Landkreis Mittelsachsen	0	0
+13.03.2020	Landkreis Nordsachsen	2	0
+13.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	6	0
+13.03.2020	Vogtlandkreis	0	0
+13.03.2020	Landkreis Zwickau	3	0
+13.03.2020	Sachsen_SMS	83	0
+14.03.2020	Baden-Württemberg	506	
+14.03.2020	Bayern	605	
+14.03.2020	Berlin	216	
+14.03.2020	Brandenburg	57	
+14.03.2020	Bremen	50	
+14.03.2020	Hamburg	119	
+14.03.2020	Hessen	141	
+14.03.2020	Mecklenburg-Vorpommern	23	
+14.03.2020	Niedersachsen	187	
+14.03.2020	Nordrhein-Westfalen	1154	
+14.03.2020	Rheinland-Pfalz	121	
+14.03.2020	Saarland	31	
+14.03.2020	Sachsen	86	
+14.03.2020	Sachsen-Anhalt	40	
+14.03.2020	Schleswig-Holstein	54	
+14.03.2020	Thüringen	31	
+14.03.2020	Gesamt	3421	8
+14.03.2020	Landeshauptstadt Dresden	11	0
+14.03.2020	Stadt Chemnitz	10	0
+14.03.2020	Stadt Leipzig	19	0
+14.03.2020	Landkreis Bautzen	14	0
+14.03.2020	Erzgebirgskreis	2	0
+14.03.2020	Landkreis Görlitz	6	0
+14.03.2020	Landkreis Leipzig	11	0
+14.03.2020	Landkreis Meißen	9	0
+14.03.2020	Landkreis Mittelsachsen	0	0
+14.03.2020	Landkreis Nordsachsen	2	0
+14.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	11	0
+14.03.2020	Vogtlandkreis	0	0
+14.03.2020	Landkreis Zwickau	4	0
+14.03.2020	Sachsen_SMS	99	0
+15.03.2020	Baden-Württemberg	524	
+15.03.2020	Bayern	804	
+15.03.2020	Berlin	265	
+15.03.2020	Brandenburg	56	
+15.03.2020	Bremen	53	
+15.03.2020	Hamburg	162	
+15.03.2020	Hessen	207	
+15.03.2020	Mecklenburg-Vorpommern	33	
+15.03.2020	Niedersachsen	238	
+15.03.2020	Nordrhein-Westfalen	1407	
+15.03.2020	Rheinland-Pfalz	168	
+15.03.2020	Saarland	32	
+15.03.2020	Sachsen	91	
+15.03.2020	Sachsen-Anhalt	40	
+15.03.2020	Schleswig-Holstein	79	
+15.03.2020	Thüringen	36	
+15.03.2020	Gesamt	4195	12
+15.03.2020	Landeshauptstadt Dresden	23	0
+15.03.2020	Stadt Chemnitz	10	0
+15.03.2020	Stadt Leipzig	31	0
+15.03.2020	Landkreis Bautzen	14	0
+15.03.2020	Erzgebirgskreis	2	0
+15.03.2020	Landkreis Görlitz	6	0
+15.03.2020	Landkreis Leipzig	16	0
+15.03.2020	Landkreis Meißen	9	0
+15.03.2020	Landkreis Mittelsachsen	0	0
+15.03.2020	Landkreis Nordsachsen	3	0
+15.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	9	0
+15.03.2020	Vogtlandkreis	1	0
+15.03.2020	Landkreis Zwickau	4	0
+15.03.2020	Sachsen_SMS	128	0
+16.03.2020	Baden-Württemberg	1062	
+16.03.2020	Bayern	965	
+16.03.2020	Berlin	300	
+16.03.2020	Brandenburg	65	
+16.03.2020	Bremen	56	
+16.03.2020	Hamburg	255	
+16.03.2020	Hessen	241	
+16.03.2020	Mecklenburg-Vorpommern	36	
+16.03.2020	Niedersachsen	272	
+16.03.2020	Nordrhein-Westfalen	1541	
+16.03.2020	Rheinland-Pfalz	325	
+16.03.2020	Saarland	32	
+16.03.2020	Sachsen	103	
+16.03.2020	Sachsen-Anhalt	40	
+16.03.2020	Schleswig-Holstein	104	
+16.03.2020	Thüringen	36	
+16.03.2020	Gesamt	5433	13
+16.03.2020	Landeshauptstadt Dresden	23	0
+16.03.2020	Stadt Chemnitz	10	0
+16.03.2020	Stadt Leipzig	41	0
+16.03.2020	Landkreis Bautzen	14	0
+16.03.2020	Erzgebirgskreis	2	0
+16.03.2020	Landkreis Görlitz	6	0
+16.03.2020	Landkreis Leipzig	17	0
+16.03.2020	Landkreis Meißen	9	0
+16.03.2020	Landkreis Mittelsachsen	0	0
+16.03.2020	Landkreis Nordsachsen	3	0
+16.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	11	0
+16.03.2020	Vogtlandkreis	2	0
+16.03.2020	Landkreis Zwickau	14	0
+16.03.2020	Sachsen_SMS	152	0
+17.03.2020	Baden-Württemberg	1479	2
+17.03.2020	Bayern	1109	4
+17.03.2020	Berlin	345	0
+17.03.2020	Brandenburg	73	0
+17.03.2020	Bremen	57	0
+17.03.2020	Hamburg	310	0
+17.03.2020	Hessen	373	0
+17.03.2020	Mecklenburg-Vorpommern	45	0
+17.03.2020	Niedersachsen	325	0
+17.03.2020	Nordrhein-Westfalen	2105	6
+17.03.2020	Rheinland-Pfalz	442	0
+17.03.2020	Saarland	75	0
+17.03.2020	Sachsen	182	0
+17.03.2020	Sachsen-Anhalt	58	0
+17.03.2020	Schleswig-Holstein	127	0
+17.03.2020	Thüringen	51	0
+17.03.2020	Gesamt	7156	12
+17.03.2020	Landeshauptstadt Dresden	40	0
+17.03.2020	Stadt Chemnitz	16	0
+17.03.2020	Stadt Leipzig	71	0
+17.03.2020	Landkreis Bautzen	24	0
+17.03.2020	Erzgebirgskreis	8	0
+17.03.2020	Landkreis Görlitz	9	0
+17.03.2020	Landkreis Leipzig	17	0
+17.03.2020	Landkreis Meißen	11	0
+17.03.2020	Landkreis Mittelsachsen	6	0
+17.03.2020	Landkreis Nordsachsen	6	0
+17.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	14	0
+17.03.2020	Vogtlandkreis	2	0
+17.03.2020	Landkreis Zwickau	23	0
+17.03.2020	Sachsen_SMS	247	0
+18.03.2020	Baden-Württemberg	1609	2
+18.03.2020	Bayern	1243	4
+18.03.2020	Berlin	391	0
+18.03.2020	Brandenburg	92	0
+18.03.2020	Bremen	69	0
+18.03.2020	Hamburg	358	0
+18.03.2020	Hessen	432	0
+18.03.2020	Mecklenburg-Vorpommern	56	0
+18.03.2020	Niedersachsen	478	0
+18.03.2020	Nordrhein-Westfalen	2372	6
+18.03.2020	Rheinland-Pfalz	474	0
+18.03.2020	Saarland	88	0
+18.03.2020	Sachsen	198	0
+18.03.2020	Sachsen-Anhalt	105	0
+18.03.2020	Schleswig-Holstein	159	0
+18.03.2020	Thüringen	74	0
+18.03.2020	Gesamt	8198	12
+18.03.2020	Landeshauptstadt Dresden	49	0
+18.03.2020	Stadt Chemnitz	18	0
+18.03.2020	Stadt Leipzig	72	0
+18.03.2020	Landkreis Bautzen	32	0
+18.03.2020	Erzgebirgskreis	11	0
+18.03.2020	Landkreis Görlitz	9	0
+18.03.2020	Landkreis Leipzig	21	0
+18.03.2020	Landkreis Meißen	12	0
+18.03.2020	Landkreis Mittelsachsen	12	0
+18.03.2020	Landkreis Nordsachsen	5	0
+18.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	19	0
+18.03.2020	Vogtlandkreis	3	0
+18.03.2020	Landkreis Zwickau	31	0
+18.03.2020	Sachsen_SMS	296	0
+19.03.2020	Baden-Württemberg	2155	6
+19.03.2020	Bayern	1692	8
+19.03.2020	Berlin	573	0
+19.03.2020	Brandenburg	134	0
+19.03.2020	Bremen	80	0
+19.03.2020	Hamburg	432	0
+19.03.2020	Hessen	682	0
+19.03.2020	Mecklenburg-Vorpommern	98	0
+19.03.2020	Niedersachsen	669	0
+19.03.2020	Nordrhein-Westfalen	3033	6
+19.03.2020	Rheinland-Pfalz	637	0
+19.03.2020	Saarland	99	0
+19.03.2020	Sachsen	275	0
+19.03.2020	Sachsen-Anhalt	140	0
+19.03.2020	Schleswig-Holstein	202	0
+19.03.2020	Thüringen	98	0
+19.03.2020	Gesamt	10999	20
+19.03.2020	Landeshauptstadt Dresden	53	0
+19.03.2020	Stadt Chemnitz	18	0
+19.03.2020	Stadt Leipzig	94	0
+19.03.2020	Landkreis Bautzen	45	0
+19.03.2020	Erzgebirgskreis	16	0
+19.03.2020	Landkreis Görlitz	12	0
+19.03.2020	Landkreis Leipzig	28	0
+19.03.2020	Landkreis Meißen	17	0
+19.03.2020	Landkreis Mittelsachsen	17	0
+19.03.2020	Landkreis Nordsachsen	7	0
+19.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	25	0
+19.03.2020	Vogtlandkreis	7	0
+19.03.2020	Landkreis Zwickau	50	0
+19.03.2020	Sachsen_SMS	389	0
+20.03.2020	Baden-Württemberg	2746	10
+20.03.2020	Bayern	2401	12
+20.03.2020	Berlin	731	0
+20.03.2020	Brandenburg	192	0
+20.03.2020	Bremen	121	0
+20.03.2020	Hamburg	586	0
+20.03.2020	Hessen	813	1
+20.03.2020	Mecklenburg-Vorpommern	131	0
+20.03.2020	Niedersachsen	803	0
+20.03.2020	Nordrhein-Westfalen	3497	6
+20.03.2020	Rheinland-Pfalz	801	1
+20.03.2020	Saarland	146	0
+20.03.2020	Sachsen	394	0
+20.03.2020	Sachsen-Anhalt	180	0
+20.03.2020	Schleswig-Holstein	266	1
+20.03.2020	Thüringen	149	0
+20.03.2020	Gesamt	13957	31
+20.03.2020	Landeshauptstadt Dresden	89	0
+20.03.2020	Stadt Chemnitz	31	0
+20.03.2020	Stadt Leipzig	119	0
+20.03.2020	Landkreis Bautzen	55	0
+20.03.2020	Erzgebirgskreis	28	0
+20.03.2020	Landkreis Görlitz	15	0
+20.03.2020	Landkreis Leipzig	32	0
+20.03.2020	Landkreis Meißen	18	0
+20.03.2020	Landkreis Mittelsachsen	24	0
+20.03.2020	Landkreis Nordsachsen	9	0
+20.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	35	0
+20.03.2020	Vogtlandkreis	10	0
+20.03.2020	Landkreis Zwickau	97	0
+20.03.2020	Sachsen_SMS	562	1
+21.03.2020	Baden-Württemberg	3668	16
+21.03.2020	Bayern	2960	19
+21.03.2020	Berlin	866	1
+21.03.2020	Brandenburg	254	0
+21.03.2020	Bremen	142	0
+21.03.2020	Hamburg		0
+21.03.2020	Hessen	1080	2
+21.03.2020	Mecklenburg-Vorpommern	165	0
+21.03.2020	Niedersachsen	1023	0
+21.03.2020	Nordrhein-Westfalen	3542	6
+21.03.2020	Rheinland-Pfalz	938	1
+21.03.2020	Saarland	187	0
+21.03.2020	Sachsen	567	0
+21.03.2020	Sachsen-Anhalt	188	0
+21.03.2020	Schleswig-Holstein	308	1
+21.03.2020	Thüringen	187	0
+21.03.2020	Gesamt	16662	46
+21.03.2020	Landeshauptstadt Dresden	108	0
+21.03.2020	Stadt Chemnitz	42	0
+21.03.2020	Stadt Leipzig	129	0
+21.03.2020	Landkreis Bautzen	65	0
+21.03.2020	Erzgebirgskreis	33	0
+21.03.2020	Landkreis Görlitz	15	0
+21.03.2020	Landkreis Leipzig	32	0
+21.03.2020	Landkreis Meißen	21	0
+21.03.2020	Landkreis Mittelsachsen	24	0
+21.03.2020	Landkreis Nordsachsen	9	0
+21.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	41	0
+21.03.2020	Vogtlandkreis	16	0
+21.03.2020	Landkreis Zwickau	115	0
+21.03.2020	Sachsen_SMS	650	1
+22.03.2020	Baden-Württemberg		21
+22.03.2020	Bayern		21
+22.03.2020	Berlin	1024	1
+22.03.2020	Brandenburg		
+22.03.2020	Bremen	165	
+22.03.2020	Hamburg	872	
+22.03.2020	Hessen		2
+22.03.2020	Mecklenburg-Vorpommern		
+22.03.2020	Niedersachsen	1306	1
+22.03.2020	Nordrhein-Westfalen		6
+22.03.2020	Rheinland-Pfalz	1053	2
+22.03.2020	Saarland		
+22.03.2020	Sachsen		
+22.03.2020	Sachsen-Anhalt	211	
+22.03.2020	Schleswig-Holstein	347	1
+22.03.2020	Thüringen	216	
+22.03.2020	Gesamt	18610	55
+22.03.2020	Landeshauptstadt Dresden	123	0
+22.03.2020	Stadt Chemnitz	51	0
+22.03.2020	Stadt Leipzig	144	0
+22.03.2020	Landkreis Bautzen	65	0
+22.03.2020	Erzgebirgskreis	33	0
+22.03.2020	Landkreis Görlitz	15	0
+22.03.2020	Landkreis Leipzig	32	0
+22.03.2020	Landkreis Meißen	25	0
+22.03.2020	Landkreis Mittelsachsen	24	0
+22.03.2020	Landkreis Nordsachsen	13	0
+22.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	41	0
+22.03.2020	Vogtlandkreis	16	0
+22.03.2020	Landkreis Zwickau	149	0
+22.03.2020	Sachsen_SMS	731	1
+23.03.2020	Baden-Württemberg		21
+23.03.2020	Bayern		26
+23.03.2020	Berlin		1
+23.03.2020	Brandenburg		
+23.03.2020	Bremen		
+23.03.2020	Hamburg	943	
+23.03.2020	Hessen		3
+23.03.2020	Mecklenburg-Vorpommern		
+23.03.2020	Niedersachsen	1483	4
+23.03.2020	Nordrhein-Westfalen		28
+23.03.2020	Rheinland-Pfalz	1177	2
+23.03.2020	Saarland		
+23.03.2020	Sachsen		
+23.03.2020	Sachsen-Anhalt		
+23.03.2020	Schleswig-Holstein	383	1
+23.03.2020	Thüringen	249	
+23.03.2020	Gesamt	22672	86
+23.03.2020	Landeshauptstadt Dresden	123	0
+23.03.2020	Stadt Chemnitz	55	0
+23.03.2020	Stadt Leipzig	161	0
+23.03.2020	Landkreis Bautzen	85	0
+23.03.2020	Erzgebirgskreis	44	0
+23.03.2020	Landkreis Görlitz	28	0
+23.03.2020	Landkreis Leipzig	45	0
+23.03.2020	Landkreis Meißen	26	0
+23.03.2020	Landkreis Mittelsachsen	34	0
+23.03.2020	Landkreis Nordsachsen	13	0
+23.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	60	0
+23.03.2020	Vogtlandkreis	16	0
+23.03.2020	Landkreis Zwickau	175	0
+23.03.2020	Sachsen_SMS	865	3
+24.03.2020	Baden-Württemberg	5348	30
+24.03.2020	Bayern	5754	30
+24.03.2020	Berlin	1220	1
+24.03.2020	Brandenburg	343	
+24.03.2020	Bremen	183	
+24.03.2020	Hamburg	1043	
+24.03.2020	Hessen	1620	4
+24.03.2020	Mecklenburg-Vorpommern	199	
+24.03.2020	Niedersachsen	1764	6
+24.03.2020	Nordrhein-Westfalen	6318	33
+24.03.2020	Rheinland-Pfalz	1370	5
+24.03.2020	Saarland	337	1
+24.03.2020	Sachsen	811	1
+24.03.2020	Sachsen-Anhalt	321	
+24.03.2020	Schleswig-Holstein	478	2
+24.03.2020	Thüringen	327	1
+24.03.2020	Gesamt	27436	114
+24.03.2020	Landeshauptstadt Dresden	169	0
+24.03.2020	Stadt Chemnitz	58	0
+24.03.2020	Stadt Leipzig	181	0
+24.03.2020	Landkreis Bautzen	96	0
+24.03.2020	Erzgebirgskreis	54	0
+24.03.2020	Landkreis Görlitz	30	0
+24.03.2020	Landkreis Leipzig	50	0
+24.03.2020	Landkreis Meißen	35	0
+24.03.2020	Landkreis Mittelsachsen	43	0
+24.03.2020	Landkreis Nordsachsen	19	0
+24.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	79	0
+24.03.2020	Vogtlandkreis	35	0
+24.03.2020	Landkreis Zwickau	172	0
+24.03.2020	Sachsen_SMS	1018	6
+25.03.2020	Landeshauptstadt Dresden	173	2
+25.03.2020	Stadt Chemnitz	61	0
+25.03.2020	Stadt Leipzig	204	0
+25.03.2020	Landkreis Bautzen	112	0
+25.03.2020	Erzgebirgskreis	57	0
+25.03.2020	Landkreis Görlitz	33	0
+25.03.2020	Landkreis Leipzig	59	0
+25.03.2020	Landkreis Meißen	35	0
+25.03.2020	Landkreis Mittelsachsen	51	0
+25.03.2020	Landkreis Nordsachsen	21	0
+25.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	83	0
+25.03.2020	Vogtlandkreis	44	0
+25.03.2020	Landkreis Zwickau	195	0
+25.03.2020	Sachsen_SMS	1128	0
+25.03.2020	Baden-Württemberg	6069	37
+25.03.2020	Bayern	6558	37
+25.03.2020	Berlin	1428	2
+25.03.2020	Brandenburg	429	1
+25.03.2020	Bremen	200	
+25.03.2020	Hamburg	1262	
+25.03.2020	Hessen	1754	4
+25.03.2020	Mecklenburg-Vorpommern	218	
+25.03.2020	Niedersachsen	2140	7
+25.03.2020	Nordrhein-Westfalen	7197	43
+25.03.2020	Rheinland-Pfalz	1591	5
+25.03.2020	Saarland	403	2
+25.03.2020	Sachsen	959	6
+25.03.2020	Sachsen-Anhalt	375	1
+25.03.2020	Schleswig-Holstein	577	3
+25.03.2020	Thüringen	394	1
+25.03.2020	Gesamt	31554	149
+26.03.2020	Baden-Württemberg	7283	56
+26.03.2020	Bayern	7993	47
+26.03.2020	Berlin	1656	4
+26.03.2020	Brandenburg	477	1
+26.03.2020	Bremen	211	1
+26.03.2020	Hamburg		
+26.03.2020	Hessen	2157	6
+26.03.2020	Mecklenburg-Vorpommern	244	
+26.03.2020	Niedersachsen	2347	8
+26.03.2020	Nordrhein-Westfalen	7924	53
+26.03.2020	Rheinland-Pfalz	1816	6
+26.03.2020	Saarland	433	2
+26.03.2020	Sachsen	1141	7
+26.03.2020	Sachsen-Anhalt	418	1
+26.03.2020	Schleswig-Holstein	675	3
+26.03.2020	Thüringen	468	3
+26.03.2020	Gesamt	36508	198
+26.03.2020	Landeshauptstadt Dresden	173	2
+26.03.2020	Stadt Chemnitz	71	0
+26.03.2020	Stadt Leipzig	227	0
+26.03.2020	Landkreis Bautzen	114	0
+26.03.2020	Erzgebirgskreis	65	0
+26.03.2020	Landkreis Görlitz	35	0
+26.03.2020	Landkreis Leipzig	70	0
+26.03.2020	Landkreis Meißen	42	0
+26.03.2020	Landkreis Mittelsachsen	60	0
+26.03.2020	Landkreis Nordsachsen	26	0
+26.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	105	0
+26.03.2020	Vogtlandkreis	62	0
+26.03.2020	Landkreis Zwickau	225	0
+26.03.2020	Sachsen_SMS	1275	0
+27.03.2020	Baden-Württemberg	8161	70
+27.03.2020	Bayern	9481	55
+27.03.2020	Berlin	1955	8
+27.03.2020	Brandenburg	537	1
+27.03.2020	Bremen	241	1
+27.03.2020	Hamburg	1693	2
+27.03.2020	Hessen	2323	7
+27.03.2020	Mecklenburg-Vorpommern	259	
+27.03.2020	Niedersachsen	2810	10
+27.03.2020	Nordrhein-Westfalen	9235	72
+27.03.2020	Rheinland-Pfalz	1971	8
+27.03.2020	Saarland	505	2
+27.03.2020	Sachsen	1305	7
+27.03.2020	Sachsen-Anhalt	458	2
+27.03.2020	Schleswig-Holstein	812	4
+27.03.2020	Thüringen	542	4
+27.03.2020	Gesamt	42288	253
+27.03.2020	Landeshauptstadt Dresden	247	2
+27.03.2020	Stadt Chemnitz	73	0
+27.03.2020	Stadt Leipzig	250	0
+27.03.2020	Landkreis Bautzen	138	1
+27.03.2020	Erzgebirgskreis	76	0
+27.03.2020	Landkreis Görlitz	56	1
+27.03.2020	Landkreis Leipzig	77	0
+27.03.2020	Landkreis Meißen	52	1
+27.03.2020	Landkreis Mittelsachsen	67	0
+27.03.2020	Landkreis Nordsachsen	27	0
+27.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	112	0
+27.03.2020	Vogtlandkreis	82	1
+27.03.2020	Landkreis Zwickau	248	3
+27.03.2020	Sachsen_SMS	1505	9
+28.03.2020	Landeshauptstadt Dresden	292	2
+28.03.2020	Stadt Chemnitz	87	0
+28.03.2020	Stadt Leipzig	270	0
+28.03.2020	Landkreis Bautzen	156	1
+28.03.2020	Erzgebirgskreis	91	0
+28.03.2020	Landkreis Görlitz	62	1
+28.03.2020	Landkreis Leipzig	77	0
+28.03.2020	Landkreis Meißen	60	1
+28.03.2020	Landkreis Mittelsachsen	83	0
+28.03.2020	Landkreis Nordsachsen	27	0
+28.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	130	0
+28.03.2020	Vogtlandkreis	93	1
+28.03.2020	Landkreis Zwickau	272	3
+28.03.2020	Sachsen_SMS	1700	9
+28.03.2020	Baden-Württemberg		101
+28.03.2020	Bayern	11150	75
+28.03.2020	Berlin	2161	8
+28.03.2020	Brandenburg	645	1
+28.03.2020	Bremen	260	2
+28.03.2020	Hamburg	1765	2
+28.03.2020	Hessen	2604	9
+28.03.2020	Mecklenburg-Vorpommern	308	0
+28.03.2020	Niedersachsen	3150	10
+28.03.2020	Nordrhein-Westfalen	10607	80
+28.03.2020	Rheinland-Pfalz	2212	11
+28.03.2020	Saarland		2
+28.03.2020	Sachsen	1432	9
+28.03.2020	Sachsen-Anhalt		2
+28.03.2020	Schleswig-Holstein	915	4
+28.03.2020	Thüringen	584	5
+28.03.2020	Gesamt	48582	321
+29.03.2020	Baden-Württemberg	9794	101
+29.03.2020	Bayern	12881	107
+29.03.2020	Berlin	2360	9
+29.03.2020	Brandenburg	721	1
+29.03.2020	Bremen	275	2
+29.03.2020	Hamburg	1846	4
+29.03.2020	Hessen		9
+29.03.2020	Mecklenburg-Vorpommern	348	1
+29.03.2020	Niedersachsen	3450	21
+29.03.2020	Nordrhein-Westfalen	11400	98
+29.03.2020	Rheinland-Pfalz	2396	12
+29.03.2020	Saarland	560	2
+29.03.2020	Sachsen	1617	9
+29.03.2020	Sachsen-Anhalt	592	2
+29.03.2020	Schleswig-Holstein	1005	6
+29.03.2020	Thüringen	697	5
+29.03.2020	Gesamt	52547	389
+29.03.2020	Landeshauptstadt Dresden	314	2
+29.03.2020	Stadt Chemnitz	96	0
+29.03.2020	Stadt Leipzig	290	0
+29.03.2020	Landkreis Bautzen	156	1
+29.03.2020	Erzgebirgskreis	91	1
+29.03.2020	Landkreis Görlitz	67	1
+29.03.2020	Landkreis Leipzig	91	0
+29.03.2020	Landkreis Meißen	68	1
+29.03.2020	Landkreis Mittelsachsen	85	0
+29.03.2020	Landkreis Nordsachsen	37	0
+29.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	142	0
+29.03.2020	Vogtlandkreis	93	1
+29.03.2020	Landkreis Zwickau	286	3
+29.03.2020	Sachsen_SMS	1816	10
+30.03.2020	Baden-Württemberg	10943	119
+30.03.2020	Bayern	13989	127
+30.03.2020	Berlin	2464	11
+30.03.2020	Brandenburg	761	2
+30.03.2020	Bremen	286	2
+30.03.2020	Hamburg	2053	5
+30.03.2020	Hessen	3091	13
+30.03.2020	Mecklenburg-Vorpommern	356	1
+30.03.2020	Niedersachsen	3732	26
+30.03.2020	Nordrhein-Westfalen	12178	101
+30.03.2020	Rheinland-Pfalz	2584	18
+30.03.2020	Saarland	706	7
+30.03.2020	Sachsen	1795	9
+30.03.2020	Sachsen-Anhalt		2
+30.03.2020	Schleswig-Holstein	1049	7
+30.03.2020	Thüringen	719	5
+30.03.2020	Gesamt	57298	455
+30.03.2020	Landeshauptstadt Dresden	339	3
+30.03.2020	Stadt Chemnitz	99	0
+30.03.2020	Stadt Leipzig	299	0
+30.03.2020	Landkreis Bautzen	156	1
+30.03.2020	Erzgebirgskreis	94	1
+30.03.2020	Landkreis Görlitz	67	1
+30.03.2020	Landkreis Leipzig	91	0
+30.03.2020	Landkreis Meißen	69	1
+30.03.2020	Landkreis Mittelsachsen	94	0
+30.03.2020	Landkreis Nordsachsen	37	0
+30.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	149	0
+30.03.2020	Vogtlandkreis	106	1
+30.03.2020	Landkreis Zwickau	330	3
+30.03.2020	Sachsen_SMS	1930	11
+31.03.2020	Landeshauptstadt Dresden	357	3
+31.03.2020	Stadt Chemnitz	112	0
+31.03.2020	Stadt Leipzig	320	0
+31.03.2020	Landkreis Bautzen	178	1
+31.03.2020	Erzgebirgskreis	113	2
+31.03.2020	Landkreis Görlitz	67	1
+31.03.2020	Landkreis Leipzig	96	0
+31.03.2020	Landkreis Meißen	75	1
+31.03.2020	Landkreis Mittelsachsen	102	1
+31.03.2020	Landkreis Nordsachsen	37	0
+31.03.2020	Landkreis Sächsische Schweiz-Osterzgebirge	179	0
+31.03.2020	Vogtlandkreis	107	1
+31.03.2020	Landkreis Zwickau	341	3
+31.03.2020	Sachsen_SMS	2084	13
+31.03.2020	Baden-Württemberg	12334	165
+31.03.2020	Bayern	14810	162
+31.03.2020	Berlin	2575	13
+31.03.2020	Brandenburg	798	2
+31.03.2020	Bremen	294	4
+31.03.2020	Hamburg	2191	9
+31.03.2020	Hessen	3283	17
+31.03.2020	Mecklenburg-Vorpommern	366	1
+31.03.2020	Niedersachsen	4063	34
+31.03.2020	Nordrhein-Westfalen	13225	117
+31.03.2020	Rheinland-Pfalz	2726	19
+31.03.2020	Saarland	782	7
+31.03.2020	Sachsen	1882	12
+31.03.2020	Sachsen-Anhalt	680	6
+31.03.2020	Schleswig-Holstein	1120	9
+31.03.2020	Thüringen	784	6
+31.03.2020	Gesamt	61913	583
+01.04.2020	Baden-Württemberg	13410	197
+01.04.2020	Bayern	16497	225
+01.04.2020	Berlin	2754	16
+01.04.2020	Brandenburg	881	4
+01.04.2020	Bremen	311	5
+01.04.2020	Hamburg	2311	14
+01.04.2020	Hessen	3445	21
+01.04.2020	Mecklenburg-Vorpommern	406	3
+01.04.2020	Niedersachsen	4382	42
+01.04.2020	Nordrhein-Westfalen	14351	134
+01.04.2020	Rheinland-Pfalz	2899	23
+01.04.2020	Saarland	829	8
+01.04.2020	Sachsen	2034	17
+01.04.2020	Sachsen-Anhalt	750	7
+01.04.2020	Schleswig-Holstein	1246	10
+01.04.2020	Thüringen	860	6
+01.04.2020	Gesamt	67366	732
+01.04.2020	Landeshauptstadt Dresden	373	4
+01.04.2020	Stadt Chemnitz	115	0
+01.04.2020	Stadt Leipzig	332	0
+01.04.2020	Landkreis Bautzen	188	2
+01.04.2020	Erzgebirgskreis	143	2
+01.04.2020	Landkreis Görlitz	72	1
+01.04.2020	Landkreis Leipzig	107	0
+01.04.2020	Landkreis Meißen	87	1
+01.04.2020	Landkreis Mittelsachsen	109	1
+01.04.2020	Landkreis Nordsachsen	41	0
+01.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	195	0
+01.04.2020	Vogtlandkreis	114	1
+01.04.2020	Landkreis Zwickau	369	6
+01.04.2020	Sachsen_SMS	2245	18
+02.04.2020	Landeshauptstadt Dresden	392	4
+02.04.2020	Stadt Chemnitz	123	0
+02.04.2020	Stadt Leipzig	361	0
+02.04.2020	Landkreis Bautzen	192	2
+02.04.2020	Erzgebirgskreis	160	3
+02.04.2020	Landkreis Görlitz	84	1
+02.04.2020	Landkreis Leipzig	113	0
+02.04.2020	Landkreis Meißen	95	1
+02.04.2020	Landkreis Mittelsachsen	127	1
+02.04.2020	Landkreis Nordsachsen	57	0
+02.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	200	0
+02.04.2020	Vogtlandkreis	119	1
+02.04.2020	Landkreis Zwickau	388	6
+02.04.2020	Sachsen_SMS	2411	19
+02.04.2020	Baden-Württemberg	14662	241
+02.04.2020	Bayern	18496	268
+02.04.2020	Berlin	2970	19
+02.04.2020	Brandenburg	995	7
+02.04.2020	Bremen	327	6
+02.04.2020	Hamburg	2406	14
+02.04.2020	Hessen	3707	27
+02.04.2020	Mecklenburg-Vorpommern	438	3
+02.04.2020	Niedersachsen	4695	45
+02.04.2020	Nordrhein-Westfalen	15427	161
+02.04.2020	Rheinland-Pfalz	3132	26
+02.04.2020	Saarland	1020	11
+02.04.2020	Sachsen	2183	18
+02.04.2020	Sachsen-Anhalt	804	8
+02.04.2020	Schleswig-Holstein	1335	11
+02.04.2020	Thüringen	925	7
+02.04.2020	Gesamt	73522	872
+03.04.2020	Landeshauptstadt Dresden	403	4
+03.04.2020	Stadt Chemnitz	138	1
+03.04.2020	Stadt Leipzig	378	1
+03.04.2020	Landkreis Bautzen	201	2
+03.04.2020	Erzgebirgskreis	239	4
+03.04.2020	Landkreis Görlitz	89	2
+03.04.2020	Landkreis Leipzig	119	0
+03.04.2020	Landkreis Meißen	105	3
+03.04.2020	Landkreis Mittelsachsen	141	1
+03.04.2020	Landkreis Nordsachsen	73	0
+03.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	200	0
+03.04.2020	Vogtlandkreis	128	1
+03.04.2020	Landkreis Zwickau	432	6
+03.04.2020	Sachsen_SMS	2646	25
+03.04.2020	Baden-Württemberg	16059	285
+03.04.2020	Bayern	20237	307
+03.04.2020	Berlin	3202	20
+03.04.2020	Brandenburg	1075	9
+03.04.2020	Bremen	341	6
+03.04.2020	Hamburg	2596	16
+03.04.2020	Hessen	3993	33
+03.04.2020	Mecklenburg-Vorpommern	468	4
+03.04.2020	Niedersachsen	5081	65
+03.04.2020	Nordrhein-Westfalen	16606	178
+03.04.2020	Rheinland-Pfalz	3362	26
+03.04.2020	Saarland	1079	12
+03.04.2020	Sachsen	2336	21
+03.04.2020	Sachsen-Anhalt	836	11
+03.04.2020	Schleswig-Holstein	1443	15
+03.04.2020	Thüringen	982	9
+03.04.2020	Gesamt	79696	1017
+04.04.2020	Baden-Württemberg	17014	316
+04.04.2020	Bayern	21908	349
+04.04.2020	Berlin	3471	22
+04.04.2020	Brandenburg	1211	12
+04.04.2020	Bremen	354	6
+04.04.2020	Hamburg	2697	16
+04.04.2020	Hessen	4279	42
+04.04.2020	Mecklenburg-Vorpommern	501	5
+04.04.2020	Niedersachsen	5571	85
+04.04.2020	Nordrhein-Westfalen	17885	200
+04.04.2020	Rheinland-Pfalz	3504	29
+04.04.2020	Saarland	1265	14
+04.04.2020	Sachsen	2591	24
+04.04.2020	Sachsen-Anhalt	896	11
+04.04.2020	Schleswig-Holstein	1559	17
+04.04.2020	Thüringen	1072	10
+04.04.2020	Gesamt	85778	1158
+04.04.2020	Landeshauptstadt Dresden	407	4
+04.04.2020	Stadt Chemnitz	143	2
+04.04.2020	Stadt Leipzig	403	1
+04.04.2020	Landkreis Bautzen	206	2
+04.04.2020	Erzgebirgskreis	271	5
+04.04.2020	Landkreis Görlitz	98	3
+04.04.2020	Landkreis Leipzig	125	1
+04.04.2020	Landkreis Meißen	115	3
+04.04.2020	Landkreis Mittelsachsen	159	1
+04.04.2020	Landkreis Nordsachsen	73	0
+04.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	226	0
+04.04.2020	Vogtlandkreis	134	1
+04.04.2020	Landkreis Zwickau	483	9
+04.04.2020	Sachsen_SMS	2843	32
+05.04.2020	Landeshauptstadt Dresden	447	4
+05.04.2020	Stadt Chemnitz	143	2
+05.04.2020	Stadt Leipzig	421	1
+05.04.2020	Landkreis Bautzen	206	2
+05.04.2020	Erzgebirgskreis	271	5
+05.04.2020	Landkreis Görlitz	153	4
+05.04.2020	Landkreis Leipzig	129	2
+05.04.2020	Landkreis Meißen	121	3
+05.04.2020	Landkreis Mittelsachsen	161	1
+05.04.2020	Landkreis Nordsachsen	77	0
+05.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	226	0
+05.04.2020	Vogtlandkreis	151	1
+05.04.2020	Landkreis Zwickau	500	9
+05.04.2020	Sachsen_SMS	3006	34
+05.04.2020	Baden-Württemberg	18614	367
+05.04.2020	Bayern	23846	396
+05.04.2020	Berlin	3613	24
+05.04.2020	Brandenburg	1305	17
+05.04.2020	Bremen	394	6
+05.04.2020	Hamburg	2945	19
+05.04.2020	Hessen	4575	56
+05.04.2020	Mecklenburg-Vorpommern	523	5
+05.04.2020	Niedersachsen	5712	89
+05.04.2020	Nordrhein-Westfalen	18735	245
+05.04.2020	Rheinland-Pfalz	3663	32
+05.04.2020	Saarland	1358	14
+05.04.2020	Sachsen	2741	32
+05.04.2020	Sachsen-Anhalt	919	12
+05.04.2020	Schleswig-Holstein	1631	18
+05.04.2020	Thüringen	1140	10
+05.04.2020	Gesamt	91714	1342
+06.04.2020	Baden-Württemberg	19395	387
+06.04.2020	Bayern	24974	437
+06.04.2020	Berlin	3670	26
+06.04.2020	Brandenburg	1345	19
+06.04.2020	Bremen	397	8
+06.04.2020	Hamburg	2993	19
+06.04.2020	Hessen	4674	61
+06.04.2020	Mecklenburg-Vorpommern	528	6
+06.04.2020	Niedersachsen	5960	92
+06.04.2020	Nordrhein-Westfalen	19384	255
+06.04.2020	Rheinland-Pfalz	3882	32
+06.04.2020	Saarland	1483	14
+06.04.2020	Sachsen	2903	34
+06.04.2020	Sachsen-Anhalt	956	12
+06.04.2020	Schleswig-Holstein	1671	20
+06.04.2020	Thüringen	1176	12
+06.04.2020	Gesamt	95391	1434
+06.04.2020	Landeshauptstadt Dresden	451	4
+06.04.2020	Stadt Chemnitz	148	2
+06.04.2020	Stadt Leipzig	427	1
+06.04.2020	Landkreis Bautzen	215	2
+06.04.2020	Erzgebirgskreis	281	6
+06.04.2020	Landkreis Görlitz	153	4
+06.04.2020	Landkreis Leipzig	132	2
+06.04.2020	Landkreis Meißen	122	3
+06.04.2020	Landkreis Mittelsachsen	164	1
+06.04.2020	Landkreis Nordsachsen	77	0
+06.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	258	0
+06.04.2020	Vogtlandkreis	161	1
+06.04.2020	Landkreis Zwickau	508	9
+06.04.2020	Sachsen_SMS	3097	35
+07.04.2020	Landeshauptstadt Dresden	458	4
+07.04.2020	Stadt Chemnitz	148	3
+07.04.2020	Stadt Leipzig	435	1
+07.04.2020	Landkreis Bautzen	219	3
+07.04.2020	Erzgebirgskreis	281	6
+07.04.2020	Landkreis Görlitz	178	4
+07.04.2020	Landkreis Leipzig	140	4
+07.04.2020	Landkreis Meißen	129	4
+07.04.2020	Landkreis Mittelsachsen	171	1
+07.04.2020	Landkreis Nordsachsen	83	0
+07.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	261	0
+07.04.2020	Vogtlandkreis	167	1
+07.04.2020	Landkreis Zwickau	511	12
+07.04.2020	Sachsen_SMS	3181	43
+07.04.2020	Baden-Württemberg	20141	433
+07.04.2020	Bayern	26163	481
+07.04.2020	Berlin	3845	28
+07.04.2020	Brandenburg	1384	20
+07.04.2020	Bremen	399	9
+07.04.2020	Hamburg	3059	20
+07.04.2020	Hessen	4837	73
+07.04.2020	Mecklenburg-Vorpommern	531	8
+07.04.2020	Niedersachsen	6200	111
+07.04.2020	Nordrhein-Westfalen	20220	282
+07.04.2020	Rheinland-Pfalz	3992	34
+07.04.2020	Saarland	1532	16
+07.04.2020	Sachsen	2997	38
+07.04.2020	Sachsen-Anhalt	987	12
+07.04.2020	Schleswig-Holstein	1730	24
+07.04.2020	Thüringen	1208	18
+07.04.2020	Gesamt	99225	1607
+08.04.2020	Landeshauptstadt Dresden	458	4
+08.04.2020	Stadt Chemnitz	152	3
+08.04.2020	Stadt Leipzig	446	1
+08.04.2020	Landkreis Bautzen	231	3
+08.04.2020	Erzgebirgskreis	323	13
+08.04.2020	Landkreis Görlitz	186	4
+08.04.2020	Landkreis Leipzig	145	4
+08.04.2020	Landkreis Meißen	137	4
+08.04.2020	Landkreis Mittelsachsen	182	1
+08.04.2020	Landkreis Nordsachsen	92	0
+08.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	280	0
+08.04.2020	Vogtlandkreis	178	1
+08.04.2020	Landkreis Zwickau	529	14
+08.04.2020	Sachsen_SMS	3339	52
+08.04.2020	Baden-Württemberg	20680	464
+08.04.2020	Bayern	27564	564
+08.04.2020	Berlin	4028	32
+08.04.2020	Brandenburg	1472	22
+08.04.2020	Bremen	424	10
+08.04.2020	Hamburg	3165	23
+08.04.2020	Hessen	4965	84
+08.04.2020	Mecklenburg-Vorpommern	555	11
+08.04.2020	Niedersachsen	6385	121
+08.04.2020	Nordrhein-Westfalen	20929	348
+08.04.2020	Rheinland-Pfalz	4148	45
+08.04.2020	Saarland	1637	23
+08.04.2020	Sachsen	3144	50
+08.04.2020	Sachsen-Anhalt	1020	16
+08.04.2020	Schleswig-Holstein	1827	28
+08.04.2020	Thüringen	1285	20
+08.04.2020	Gesamt	103228	1861
+09.04.2020	Landeshauptstadt Dresden	473	4
+09.04.2020	Stadt Chemnitz	160	3
+09.04.2020	Stadt Leipzig	451	1
+09.04.2020	Landkreis Bautzen	238	3
+09.04.2020	Erzgebirgskreis	343	15
+09.04.2020	Landkreis Görlitz	196	4
+09.04.2020	Landkreis Leipzig	148	4
+09.04.2020	Landkreis Meißen	145	5
+09.04.2020	Landkreis Mittelsachsen	202	1
+09.04.2020	Landkreis Nordsachsen	95	0
+09.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	281	0
+09.04.2020	Vogtlandkreis	188	1
+09.04.2020	Landkreis Zwickau	567	17
+09.04.2020	Sachsen_SMS	3487	58
+09.04.2020	Baden-Württemberg	21603	519
+09.04.2020	Bayern	28827	635
+09.04.2020	Berlin	4202	37
+09.04.2020	Brandenburg	1578	30
+09.04.2020	Bremen	445	11
+09.04.2020	Hamburg	3320	44
+09.04.2020	Hessen	5242	100
+09.04.2020	Mecklenburg-Vorpommern	572	11
+09.04.2020	Niedersachsen	6804	141
+09.04.2020	Nordrhein-Westfalen	21961	384
+09.04.2020	Rheinland-Pfalz	4336	50
+09.04.2020	Saarland	1693	23
+09.04.2020	Sachsen	3261	52
+09.04.2020	Sachsen-Anhalt	1075	16
+09.04.2020	Schleswig-Holstein	1932	34
+09.04.2020	Thüringen	1351	20
+09.04.2020	Gesamt	108202	2107
+10.04.2020	Baden-Württemberg	22433	570
+10.04.2020	Bayern	30363	703
+10.04.2020	Berlin	4349	42
+10.04.2020	Brandenburg	1691	37
+10.04.2020	Bremen	454	13
+10.04.2020	Hamburg	3551	53
+10.04.2020	Hessen	5694	111
+10.04.2020	Mecklenburg-Vorpommern	586	11
+10.04.2020	Niedersachsen	7114	161
+10.04.2020	Nordrhein-Westfalen	23028	446
+10.04.2020	Rheinland-Pfalz	4440	51
+10.04.2020	Saarland	1854	36
+10.04.2020	Sachsen	3402	59
+10.04.2020	Sachsen-Anhalt	1121	18
+10.04.2020	Schleswig-Holstein	2029	38
+10.04.2020	Thüringen	1416	24
+10.04.2020	Gesamt	113525	2373
+11.04.2020	Baden-Württemberg	23617	622
+11.04.2020	Bayern	31453	747
+11.04.2020	Berlin	4458	46
+11.04.2020	Brandenburg	1764	37
+11.04.2020	Bremen	469	15
+11.04.2020	Hamburg	3663	56
+11.04.2020	Hessen	5808	120
+11.04.2020	Mecklenburg-Vorpommern	601	11
+11.04.2020	Niedersachsen	7343	171
+11.04.2020	Nordrhein-Westfalen	23644	472
+11.04.2020	Rheinland-Pfalz	4622	59
+11.04.2020	Saarland	2016	41
+11.04.2020	Sachsen	3565	65
+11.04.2020	Sachsen-Anhalt	1135	18
+11.04.2020	Schleswig-Holstein	2065	39
+11.04.2020	Thüringen	1435	25
+11.04.2020	Gesamt	117658	2544
+10.04.2020	Landeshauptstadt Dresden	482	4
+10.04.2020	Stadt Chemnitz	167	3
+10.04.2020	Stadt Leipzig	458	1
+10.04.2020	Landkreis Bautzen	242	3
+10.04.2020	Erzgebirgskreis	367	17
+10.04.2020	Landkreis Görlitz	201	7
+10.04.2020	Landkreis Leipzig	170	4
+10.04.2020	Landkreis Meißen	157	5
+10.04.2020	Landkreis Mittelsachsen	206	1
+10.04.2020	Landkreis Nordsachsen	95	0
+10.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	287	0
+10.04.2020	Vogtlandkreis	195	1
+10.04.2020	Landkreis Zwickau	579	18
+10.04.2020	Sachsen_SMS	3601	64
+11.04.2020	Landeshauptstadt Dresden	482	4
+11.04.2020	Stadt Chemnitz	167	3
+11.04.2020	Stadt Leipzig	469	1
+11.04.2020	Landkreis Bautzen	242	3
+11.04.2020	Erzgebirgskreis	397	17
+11.04.2020	Landkreis Görlitz	215	9
+11.04.2020	Landkreis Leipzig	174	4
+11.04.2020	Landkreis Meißen	164	5
+11.04.2020	Landkreis Mittelsachsen	217	1
+11.04.2020	Landkreis Nordsachsen	95	0
+11.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	290	1
+11.04.2020	Vogtlandkreis	204	1
+11.04.2020	Landkreis Zwickau	592	18
+11.04.2020	Sachsen_SMS	3708	67
+12.04.2020	Baden-Württemberg	24078	649
+12.04.2020	Bayern	32282	786
+12.04.2020	Berlin	4567	50
+12.04.2020	Brandenburg	1857	38
+12.04.2020	Bremen	480	15
+12.04.2020	Hamburg	3742	56
+12.04.2020	Hessen	5859	123
+12.04.2020	Mecklenburg-Vorpommern	605	11
+12.04.2020	Niedersachsen	7602	189
+12.04.2020	Nordrhein-Westfalen	24267	495
+12.04.2020	Rheinland-Pfalz	4734	64
+12.04.2020	Saarland	2058	43
+12.04.2020	Sachsen	3600	67
+12.04.2020	Sachsen-Anhalt	1166	21
+12.04.2020	Schleswig-Holstein	2118	41
+12.04.2020	Thüringen	1464	25
+12.04.2020	Gesamt	120479	2673
+13.04.2020	Baden-Württemberg	24570	677
+13.04.2020	Bayern	33015	820
+13.04.2020	Berlin	4601	51
+13.04.2020	Brandenburg	1880	38
+13.04.2020	Bremen	486	17
+13.04.2020	Hamburg	3770	56
+13.04.2020	Hessen	6114	135
+13.04.2020	Mecklenburg-Vorpommern	618	11
+13.04.2020	Niedersachsen	7723	201
+13.04.2020	Nordrhein-Westfalen	24883	518
+13.04.2020	Rheinland-Pfalz	4810	68
+13.04.2020	Saarland	2079	44
+13.04.2020	Sachsen	3655	68
+13.04.2020	Sachsen-Anhalt	1193	24
+13.04.2020	Schleswig-Holstein	2134	44
+13.04.2020	Thüringen	1485	27
+13.04.2020	Gesamt	123016	2799
+12.04.2020	Landeshauptstadt Dresden	491	4
+12.04.2020	Stadt Chemnitz	172	3
+12.04.2020	Stadt Leipzig	476	1
+12.04.2020	Landkreis Bautzen	242	3
+12.04.2020	Erzgebirgskreis	397	17
+12.04.2020	Landkreis Görlitz	215	9
+12.04.2020	Landkreis Leipzig	176	4
+12.04.2020	Landkreis Meißen	170	6
+12.04.2020	Landkreis Mittelsachsen	220	1
+12.04.2020	Landkreis Nordsachsen	95	0
+12.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	295	1
+12.04.2020	Vogtlandkreis	217	1
+12.04.2020	Landkreis Zwickau	598	18
+12.04.2020	Sachsen_SMS	3764	68
+13.04.2020	Landeshauptstadt Dresden	491	4
+13.04.2020	Stadt Chemnitz	177	3
+13.04.2020	Stadt Leipzig	483	1
+13.04.2020	Landkreis Bautzen	242	3
+13.04.2020	Erzgebirgskreis	397	17
+13.04.2020	Landkreis Görlitz	215	9
+13.04.2020	Landkreis Leipzig	176	4
+13.04.2020	Landkreis Meißen	174	7
+13.04.2020	Landkreis Mittelsachsen	222	1
+13.04.2020	Landkreis Nordsachsen	95	0
+13.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	297	1
+13.04.2020	Vogtlandkreis	217	1
+13.04.2020	Landkreis Zwickau	616	18
+13.04.2020	Sachsen_SMS	3802	69
+14.04.2020	Landeshauptstadt Dresden	492	4
+14.04.2020	Stadt Chemnitz	182	3
+14.04.2020	Stadt Leipzig	488	2
+14.04.2020	Landkreis Bautzen	291	4
+14.04.2020	Erzgebirgskreis	397	17
+14.04.2020	Landkreis Görlitz	215	9
+14.04.2020	Landkreis Leipzig	176	4
+14.04.2020	Landkreis Meißen	175	10
+14.04.2020	Landkreis Mittelsachsen	222	1
+14.04.2020	Landkreis Nordsachsen	95	0
+14.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	302	1
+14.04.2020	Vogtlandkreis	256	1
+14.04.2020	Landkreis Zwickau	624	18
+14.04.2020	Sachsen_SMS	3915	74
+15.04.2020	Landeshauptstadt Dresden	497	4
+15.04.2020	Stadt Chemnitz	183	3
+15.04.2020	Stadt Leipzig	492	3
+15.04.2020	Landkreis Bautzen	297	5
+15.04.2020	Erzgebirgskreis	419	27
+15.04.2020	Landkreis Görlitz	223	10
+15.04.2020	Landkreis Leipzig	177	4
+15.04.2020	Landkreis Meißen	177	10
+15.04.2020	Landkreis Mittelsachsen	230	1
+15.04.2020	Landkreis Nordsachsen	113	0
+15.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	306	1
+15.04.2020	Vogtlandkreis	258	1
+15.04.2020	Landkreis Zwickau	656	18
+15.04.2020	Sachsen_SMS	4028	87
+14.04.2020	Baden-Württemberg	25040	711
+14.04.2020	Bayern	33569	872
+14.04.2020	Berlin	4668	56
+14.04.2020	Brandenburg	1916	40
+14.04.2020	Bremen	492	20
+14.04.2020	Hamburg	3808	59
+14.04.2020	Hessen	6183	147
+14.04.2020	Mecklenburg-Vorpommern	619	11
+14.04.2020	Niedersachsen	7885	211
+14.04.2020	Nordrhein-Westfalen	25300	545
+14.04.2020	Rheinland-Pfalz	4880	70
+14.04.2020	Saarland	2112	52
+14.04.2020	Sachsen	3751	70
+14.04.2020	Sachsen-Anhalt	1207	25
+14.04.2020	Schleswig-Holstein	2164	49
+14.04.2020	Thüringen	1504	31
+14.04.2020	Gesamt	125098	2969
+15.04.2020	Baden-Württemberg	25438	767
+15.04.2020	Bayern	34294	954
+15.04.2020	Berlin	4722	62
+15.04.2020	Brandenburg	1950	42
+15.04.2020	Bremen	500	21
+15.04.2020	Hamburg	3869	67
+15.04.2020	Hessen	6347	173
+15.04.2020	Mecklenburg-Vorpommern	624	11
+15.04.2020	Niedersachsen	8019	224
+15.04.2020	Nordrhein-Westfalen	25835	607
+15.04.2020	Rheinland-Pfalz	5004	77
+15.04.2020	Saarland	2145	58
+15.04.2020	Sachsen	3819	73
+15.04.2020	Sachsen-Anhalt	1223	26
+15.04.2020	Schleswig-Holstein	2245	54
+15.04.2020	Thüringen	1550	38
+15.04.2020	Gesamt	127584	3254
+16.04.2020	Baden-Württemberg	25881	802
+16.04.2020	Bayern	35142	1049
+16.04.2020	Berlin	4848	74
+16.04.2020	Brandenburg	2058	54
+16.04.2020	Bremen	507	21
+16.04.2020	Hamburg	3953	80
+16.04.2020	Hessen	6470	187
+16.04.2020	Mecklenburg-Vorpommern	634	13
+16.04.2020	Niedersachsen	8188	248
+16.04.2020	Nordrhein-Westfalen	26383	663
+16.04.2020	Rheinland-Pfalz	5087	87
+16.04.2020	Saarland	2201	71
+16.04.2020	Sachsen	3955	94
+16.04.2020	Sachsen-Anhalt	1248	26
+16.04.2020	Schleswig-Holstein	2294	55
+16.04.2020	Thüringen	1601	45
+16.04.2020	Gesamt	130450	3569
+17.04.2020	Baden-Württemberg	26543	872
+17.04.2020	Bayern	36027	1137
+17.04.2020	Berlin	4945	84
+17.04.2020	Brandenburg	2120	60
+17.04.2020	Bremen	556	22
+17.04.2020	Hamburg	4005	84
+17.04.2020	Hessen	6705	197
+17.04.2020	Mecklenburg-Vorpommern	634	13
+17.04.2020	Niedersachsen	8442	274
+17.04.2020	Nordrhein-Westfalen	27030	726
+17.04.2020	Rheinland-Pfalz	5211	92
+17.04.2020	Saarland	2254	76
+17.04.2020	Sachsen	4048	95
+17.04.2020	Sachsen-Anhalt	1279	28
+17.04.2020	Schleswig-Holstein	2349	59
+17.04.2020	Thüringen	1682	49
+17.04.2020	Gesamt	133830	3868
+16.04.2020	Landeshauptstadt Dresden	503	4
+16.04.2020	Stadt Chemnitz	185	3
+16.04.2020	Stadt Leipzig	503	4
+16.04.2020	Landkreis Bautzen	307	5
+16.04.2020	Erzgebirgskreis	438	29
+16.04.2020	Landkreis Görlitz	225	10
+16.04.2020	Landkreis Leipzig	177	4
+16.04.2020	Landkreis Meißen	182	10
+16.04.2020	Landkreis Mittelsachsen	232	2
+16.04.2020	Landkreis Nordsachsen	115	0
+16.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	307	1
+16.04.2020	Vogtlandkreis	268	2
+16.04.2020	Landkreis Zwickau	668	20
+16.04.2020	Sachsen_SMS	4110	94
+17.04.2020	Landeshauptstadt Dresden	507	5
+17.04.2020	Stadt Chemnitz	189	3
+17.04.2020	Stadt Leipzig	509	4
+17.04.2020	Landkreis Bautzen	318	5
+17.04.2020	Erzgebirgskreis	448	30
+17.04.2020	Landkreis Görlitz	229	13
+17.04.2020	Landkreis Leipzig	179	4
+17.04.2020	Landkreis Meißen	188	10
+17.04.2020	Landkreis Mittelsachsen	237	2
+17.04.2020	Landkreis Nordsachsen	115	0
+17.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	316	1
+17.04.2020	Vogtlandkreis	271	3
+17.04.2020	Landkreis Zwickau	674	20
+17.04.2020	Sachsen_SMS	4180	100
+18.04.2020	Baden-Württemberg	27258	919
+18.04.2020	Bayern	36881	1198
+18.04.2020	Berlin	5066	91
+18.04.2020	Brandenburg	2161	62
+18.04.2020	Bremen	567	24
+18.04.2020	Hamburg	4118	90
+18.04.2020	Hessen	6916	212
+18.04.2020	Mecklenburg-Vorpommern	645	14
+18.04.2020	Niedersachsen	8649	281
+18.04.2020	Nordrhein-Westfalen	28006	791
+18.04.2020	Rheinland-Pfalz	5324	99
+18.04.2020	Saarland	2289	86
+18.04.2020	Sachsen	4140	103
+18.04.2020	Sachsen-Anhalt	1315	29
+18.04.2020	Schleswig-Holstein	2387	61
+18.04.2020	Thüringen	1717	50
+18.04.2020	Gesamt	137439	4110
+18.04.2020	Landeshauptstadt Dresden	515	5
+18.04.2020	Stadt Chemnitz	189	3
+18.04.2020	Stadt Leipzig	513	4
+18.04.2020	Landkreis Bautzen	322	7
+18.04.2020	Erzgebirgskreis	453	30
+18.04.2020	Landkreis Görlitz	235	14
+18.04.2020	Landkreis Leipzig	179	4
+18.04.2020	Landkreis Meißen	189	10
+18.04.2020	Landkreis Mittelsachsen	238	2
+18.04.2020	Landkreis Nordsachsen	122	0
+18.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	316	1
+18.04.2020	Vogtlandkreis	275	4
+18.04.2020	Landkreis Zwickau	694	22
+18.04.2020	Sachsen_SMS	4240	106
+19.04.2020	Landeshauptstadt Dresden	515	5
+19.04.2020	Stadt Chemnitz	190	3
+19.04.2020	Stadt Leipzig	518	4
+19.04.2020	Landkreis Bautzen	326	7
+19.04.2020	Erzgebirgskreis	461	31
+19.04.2020	Landkreis Görlitz	239	14
+19.04.2020	Landkreis Leipzig	179	4
+19.04.2020	Landkreis Meißen	193	10
+19.04.2020	Landkreis Mittelsachsen	241	2
+19.04.2020	Landkreis Nordsachsen	123	0
+19.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	316	1
+19.04.2020	Vogtlandkreis	279	4
+19.04.2020	Landkreis Zwickau	697	22
+19.04.2020	Sachsen_SMS	4277	107
+20.04.2020	Landeshauptstadt Dresden	524	6
+20.04.2020	Stadt Chemnitz	192	3
+20.04.2020	Stadt Leipzig	524	4
+20.04.2020	Landkreis Bautzen	326	7
+20.04.2020	Erzgebirgskreis	469	33
+20.04.2020	Landkreis Görlitz	239	14
+20.04.2020	Landkreis Leipzig	180	4
+20.04.2020	Landkreis Meißen	193	10
+20.04.2020	Landkreis Mittelsachsen	241	2
+20.04.2020	Landkreis Nordsachsen	123	0
+20.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	320	2
+20.04.2020	Vogtlandkreis	279	4
+20.04.2020	Landkreis Zwickau	713	22
+20.04.2020	Sachsen_SMS	4323	111
+21.04.2020	Landeshauptstadt Dresden	526	6
+21.04.2020	Stadt Chemnitz	192	3
+21.04.2020	Stadt Leipzig	528	4
+21.04.2020	Landkreis Bautzen	329	8
+21.04.2020	Erzgebirgskreis	471	35
+21.04.2020	Landkreis Görlitz	241	14
+21.04.2020	Landkreis Leipzig	180	4
+21.04.2020	Landkreis Meißen	196	12
+21.04.2020	Landkreis Mittelsachsen	241	2
+21.04.2020	Landkreis Nordsachsen	124	0
+21.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	321	2
+21.04.2020	Vogtlandkreis	280	4
+21.04.2020	Landkreis Zwickau	713	25
+21.04.2020	Sachsen_SMS	4342	119
+22.04.2020	Landeshauptstadt Dresden	533	6
+22.04.2020	Stadt Chemnitz	194	5
+22.04.2020	Stadt Leipzig	529	4
+22.04.2020	Landkreis Bautzen	330	10
+22.04.2020	Erzgebirgskreis	477	36
+22.04.2020	Landkreis Görlitz	241	15
+22.04.2020	Landkreis Leipzig	184	4
+22.04.2020	Landkreis Meißen	204	12
+22.04.2020	Landkreis Mittelsachsen	242	2
+22.04.2020	Landkreis Nordsachsen	126	0
+22.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	326	2
+22.04.2020	Vogtlandkreis	285	4
+22.04.2020	Landkreis Zwickau	716	26
+22.04.2020	Sachsen_SMS	4397	126
+23.04.2020	Landeshauptstadt Dresden	536	6
+23.04.2020	Stadt Chemnitz	194	5
+23.04.2020	Stadt Leipzig	536	5
+23.04.2020	Landkreis Bautzen	341	10
+23.04.2020	Erzgebirgskreis	485	37
+23.04.2020	Landkreis Görlitz	247	17
+23.04.2020	Landkreis Leipzig	184	4
+23.04.2020	Landkreis Meißen	207	13
+23.04.2020	Landkreis Mittelsachsen	241	2
+23.04.2020	Landkreis Nordsachsen	129	0
+23.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	328	2
+23.04.2020	Vogtlandkreis	288	4
+23.04.2020	Landkreis Zwickau	722	28
+23.04.2020	Sachsen_SMS	4438	133
+24.04.2020	Landeshauptstadt Dresden	536	6
+24.04.2020	Stadt Chemnitz	194	5
+24.04.2020	Stadt Leipzig	541	5
+24.04.2020	Landkreis Bautzen	345	10
+24.04.2020	Erzgebirgskreis	492	38
+24.04.2020	Landkreis Görlitz	249	19
+24.04.2020	Landkreis Leipzig	184	4
+24.04.2020	Landkreis Meißen	210	14
+24.04.2020	Landkreis Mittelsachsen	240	2
+24.04.2020	Landkreis Nordsachsen	130	0
+24.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	330	2
+24.04.2020	Vogtlandkreis	298	5
+24.04.2020	Landkreis Zwickau	730	31
+24.04.2020	Sachsen_SMS	4479	141
+25.04.2020	Landeshauptstadt Dresden	544	6
+25.04.2020	Stadt Chemnitz	195	5
+25.04.2020	Stadt Leipzig	542	5
+25.04.2020	Landkreis Bautzen	346	12
+25.04.2020	Erzgebirgskreis	501	39
+25.04.2020	Landkreis Görlitz	249	20
+25.04.2020	Landkreis Leipzig	184	4
+25.04.2020	Landkreis Meißen	212	14
+25.04.2020	Landkreis Mittelsachsen	241	4
+25.04.2020	Landkreis Nordsachsen	130	0
+25.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	330	2
+25.04.2020	Vogtlandkreis	300	5
+25.04.2020	Landkreis Zwickau	730	31
+25.04.2020	Sachsen_SMS	4507	147
+19.04.2020	Baden-Württemberg	27883	968
+19.04.2020	Bayern	37407	1256
+19.04.2020	Berlin	5159	92
+19.04.2020	Brandenburg	2221	66
+19.04.2020	Bremen	585	25
+19.04.2020	Hamburg	4167	91
+19.04.2020	Hessen	7108	230
+19.04.2020	Mecklenburg-Vorpommern	651	15
+19.04.2020	Niedersachsen	8797	288
+19.04.2020	Nordrhein-Westfalen	28471	814
+19.04.2020	Rheinland-Pfalz	5432	106
+19.04.2020	Saarland	2303	91
+19.04.2020	Sachsen	4190	107
+19.04.2020	Sachsen-Anhalt	1350	30
+19.04.2020	Schleswig-Holstein	2417	62
+19.04.2020	Thüringen	1756	53
+19.04.2020	Gesamt	139897	4294
+20.04.2020	Baden-Württemberg	28253	982
+20.04.2020	Bayern	37849	1286
+20.04.2020	Berlin	5196	94
+20.04.2020	Brandenburg	2238	66
+20.04.2020	Bremen	604	25
+20.04.2020	Hamburg	4185	91
+20.04.2020	Hessen	7177	240
+20.04.2020	Mecklenburg-Vorpommern	653	15
+20.04.2020	Niedersachsen	8900	291
+20.04.2020	Nordrhein-Westfalen	28971	857
+20.04.2020	Rheinland-Pfalz	5523	107
+20.04.2020	Saarland	2314	91
+20.04.2020	Sachsen	4229	109
+20.04.2020	Sachsen-Anhalt	1369	30
+20.04.2020	Schleswig-Holstein	2426	67
+20.04.2020	Thüringen	1785	53
+20.04.2020	Gesamt	141672	4404
+21.04.2020	Baden-Württemberg	28712	1031
+21.04.2020	Bayern	38310	1336
+21.04.2020	Berlin	5237	97
+21.04.2020	Brandenburg	2275	67
+21.04.2020	Bremen	609	25
+21.04.2020	Hamburg	4204	91
+21.04.2020	Hessen	7231	251
+21.04.2020	Mecklenburg-Vorpommern	655	15
+21.04.2020	Niedersachsen	9098	306
+21.04.2020	Nordrhein-Westfalen	29389	896
+21.04.2020	Rheinland-Pfalz	5561	116
+21.04.2020	Saarland	2328	93
+21.04.2020	Sachsen	4253	117
+21.04.2020	Sachsen-Anhalt	1383	32
+21.04.2020	Schleswig-Holstein	2414	70
+21.04.2020	Thüringen	1798	55
+21.04.2020	Gesamt	143457	4598
+22.04.2020	Baden-Württemberg	28898	1063
+22.04.2020	Bayern	38814	1424
+22.04.2020	Berlin	5312	105
+22.04.2020	Brandenburg	2389	74
+22.04.2020	Bremen	624	26
+22.04.2020	Hamburg	4204	91
+22.04.2020	Hessen	7380	265
+22.04.2020	Mecklenburg-Vorpommern	656	15
+22.04.2020	Niedersachsen	9236	328
+22.04.2020	Nordrhein-Westfalen	30185	964
+22.04.2020	Rheinland-Pfalz	5593	122
+22.04.2020	Saarland	2367	97
+22.04.2020	Sachsen	4273	122
+22.04.2020	Sachsen-Anhalt	1395	33
+22.04.2020	Schleswig-Holstein	2496	79
+22.04.2020	Thüringen	1872	71
+22.04.2020	Gesamt	145694	4879
+23.04.2020	Baden-Württemberg	29443	1113
+23.04.2020	Bayern	39395	1476
+23.04.2020	Berlin	5324	105
+23.04.2020	Brandenburg	2447	84
+23.04.2020	Bremen	672	27
+23.04.2020	Hamburg	4286	113
+23.04.2020	Hessen	7593	286
+23.04.2020	Mecklenburg-Vorpommern	659	15
+23.04.2020	Niedersachsen	9391	340
+23.04.2020	Nordrhein-Westfalen	30584	999
+23.04.2020	Rheinland-Pfalz	5643	131
+23.04.2020	Saarland	2395	99
+23.04.2020	Sachsen	4327	127
+23.04.2020	Sachsen-Anhalt	1425	34
+23.04.2020	Schleswig-Holstein	2530	84
+23.04.2020	Thüringen	1932	61
+23.04.2020	Gesamt	148046	5094
+24.04.2020	Baden-Württemberg	29792	1153
+24.04.2020	Bayern	39939	1525
+24.04.2020	Berlin	5459	112
+24.04.2020	Brandenburg	2536	90
+24.04.2020	Bremen	707	27
+24.04.2020	Hamburg	4358	122
+24.04.2020	Hessen	7712	296
+24.04.2020	Mecklenburg-Vorpommern	661	16
+24.04.2020	Niedersachsen	9544	364
+24.04.2020	Nordrhein-Westfalen	31106	1052
+24.04.2020	Rheinland-Pfalz	5731	136
+24.04.2020	Saarland	2445	105
+24.04.2020	Sachsen	4377	135
+24.04.2020	Sachsen-Anhalt	1436	35
+24.04.2020	Schleswig-Holstein	2557	88
+24.04.2020	Thüringen	2023	65
+24.04.2020	Gesamt	150383	5321
+25.04.2020	Baden-Württemberg	30169	1189
+25.04.2020	Bayern	40547	1566
+25.04.2020	Berlin	5525	113
+25.04.2020	Brandenburg	2627	97
+25.04.2020	Bremen	719	27
+25.04.2020	Hamburg	4400	139
+25.04.2020	Hessen	7837	305
+25.04.2020	Mecklenburg-Vorpommern	667	16
+25.04.2020	Niedersachsen	9691	377
+25.04.2020	Nordrhein-Westfalen	31465	1084
+25.04.2020	Rheinland-Pfalz	5767	138
+25.04.2020	Saarland	2468	107
+25.04.2020	Sachsen	4406	141
+25.04.2020	Sachsen-Anhalt	1480	35
+25.04.2020	Schleswig-Holstein	2612	95
+25.04.2020	Thüringen	2058	71
+25.04.2020	Gesamt	152438	5500
+26.04.2020	Landeshauptstadt Dresden	551	6
+26.04.2020	Stadt Chemnitz	196	5
+26.04.2020	Stadt Leipzig	548	5
+26.04.2020	Landkreis Bautzen	346	12
+26.04.2020	Erzgebirgskreis	503	39
+26.04.2020	Landkreis Görlitz	249	20
+26.04.2020	Landkreis Leipzig	184	4
+26.04.2020	Landkreis Meißen	212	14
+26.04.2020	Landkreis Mittelsachsen	243	4
+26.04.2020	Landkreis Nordsachsen	130	0
+26.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	333	2
+26.04.2020	Vogtlandkreis	305	5
+26.04.2020	Landkreis Zwickau	741	31
+26.04.2020	Sachsen_SMS	4541	147
+27.04.2020	Landeshauptstadt Dresden	554	6
+27.04.2020	Stadt Chemnitz	196	5
+27.04.2020	Stadt Leipzig	551	5
+27.04.2020	Landkreis Bautzen	347	12
+27.04.2020	Erzgebirgskreis	511	39
+27.04.2020	Landkreis Görlitz	252	20
+27.04.2020	Landkreis Leipzig	184	4
+27.04.2020	Landkreis Meißen	216	14
+27.04.2020	Landkreis Mittelsachsen	245	4
+27.04.2020	Landkreis Nordsachsen	130	0
+27.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	333	2
+27.04.2020	Vogtlandkreis	307	5
+27.04.2020	Landkreis Zwickau	741	32
+27.04.2020	Sachsen_SMS	4567	148
+28.04.2020	Landkreis Bautzen	348	12
+28.04.2020	Erzgebirgskreis	513	40
+28.04.2020	Landkreis Görlitz	252	20
+28.04.2020	Landkreis Leipzig	185	4
+28.04.2020	Landkreis Meißen	216	14
+28.04.2020	Landkreis Mittelsachsen	247	5
+28.04.2020	Landkreis Nordsachsen	130	0
+28.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	333	2
+28.04.2020	Vogtlandkreis	312	6
+28.04.2020	Landkreis Zwickau	741	32
+28.04.2020	Stadt Chemnitz	196	5
+28.04.2020	Landeshauptstadt Dresden	555	6
+28.04.2020	Stadt Leipzig	558	5
+28.04.2020	Sachsen_SMS	4586	151
+26.04.2020	Baden-Württemberg	30761	1237
+26.04.2020	Bayern	40912	1596
+26.04.2020	Berlin	5600	123
+26.04.2020	Brandenburg	2694	100
+26.04.2020	Bremen	739	27
+26.04.2020	Hamburg	4429	140
+26.04.2020	Hessen	7946	315
+26.04.2020	Mecklenburg-Vorpommern	673	16
+26.04.2020	Niedersachsen	9785	384
+26.04.2020	Nordrhein-Westfalen	31669	1096
+26.04.2020	Rheinland-Pfalz	5835	147
+26.04.2020	Saarland	2482	107
+26.04.2020	Sachsen	4428	147
+26.04.2020	Sachsen-Anhalt	1494	36
+26.04.2020	Schleswig-Holstein	2630	96
+26.04.2020	Thüringen	2098	73
+26.04.2020	Gesamt	154175	5640
+27.04.2020	Baden-Württemberg	31043	1249
+27.04.2020	Bayern	41070	1621
+27.04.2020	Berlin	5638	125
+27.04.2020	Brandenburg	2721	100
+27.04.2020	Bremen	754	27
+27.04.2020	Hamburg	4475	142
+27.04.2020	Hessen	7979	320
+27.04.2020	Mecklenburg-Vorpommern	674	16
+27.04.2020	Niedersachsen	9847	391
+27.04.2020	Nordrhein-Westfalen	31879	1131
+27.04.2020	Rheinland-Pfalz	5879	152
+27.04.2020	Saarland	2503	121
+27.04.2020	Sachsen	4458	147
+27.04.2020	Sachsen-Anhalt	1515	36
+27.04.2020	Schleswig-Holstein	2638	98
+27.04.2020	Thüringen	2120	74
+27.04.2020	Gesamt	155193	5750
+28.04.2020	Baden-Württemberg	31196	1269
+28.04.2020	Bayern	41406	1681
+28.04.2020	Berlin	5669	127
+28.04.2020	Brandenburg	2747	106
+28.04.2020	Bremen	759	27
+28.04.2020	Hamburg	4505	142
+28.04.2020	Hessen	8026	333
+28.04.2020	Mecklenburg-Vorpommern	675	17
+28.04.2020	Niedersachsen	9926	394
+28.04.2020	Nordrhein-Westfalen	32184	1171
+28.04.2020	Rheinland-Pfalz	5928	157
+28.04.2020	Saarland	2509	123
+28.04.2020	Sachsen	4490	148
+28.04.2020	Sachsen-Anhalt	1520	39
+28.04.2020	Schleswig-Holstein	2653	101
+28.04.2020	Thüringen	2144	78
+28.04.2020	Gesamt	156337	5913
+29.04.2020	Baden-Württemberg	31336	1299
+29.04.2020	Bayern	41830	1754
+29.04.2020	Berlin	5734	137
+29.04.2020	Brandenburg	2768	109
+29.04.2020	Bremen	797	29
+29.04.2020	Hamburg	4525	153
+29.04.2020	Hessen	8184	346
+29.04.2020	Mecklenburg-Vorpommern	687	17
+29.04.2020	Niedersachsen	9972	406
+29.04.2020	Nordrhein-Westfalen	32429	1200
+29.04.2020	Rheinland-Pfalz	5982	161
+29.04.2020	Saarland	2514	129
+29.04.2020	Sachsen	4509	153
+29.04.2020	Sachsen-Anhalt	1525	39
+29.04.2020	Schleswig-Holstein	2679	103
+29.04.2020	Thüringen	2170	80
+29.04.2020	Gesamt	157641	6115
+29.04.2020	Landeshauptstadt Dresden	559	6
+29.04.2020	Stadt Leipzig	564	5
+29.04.2020	Stadt Chemnitz	196	5
+29.04.2020	Landkreis Bautzen	351	12
+29.04.2020	Erzgebirgskreis	513	40
+29.04.2020	Landkreis Görlitz	253	20
+29.04.2020	Landkreis Leipzig	185	4
+29.04.2020	Landkreis Meißen	219	16
+29.04.2020	Landkreis Mittelsachsen	247	5
+29.04.2020	Landkreis Nordsachsen	136	0
+29.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	335	2
+29.04.2020	Vogtlandkreis	312	6
+29.04.2020	Landkreis Zwickau	750	32
+29.04.2020	Sachsen_SMS	4620	153
+30.04.2020	Baden-Württemberg	31609	1353
+30.04.2020	Bayern	42080	1799
+30.04.2020	Berlin	5827	147
+30.04.2020	Brandenburg	2831	113
+30.04.2020	Bremen	827	29
+30.04.2020	Hamburg	4562	155
+30.04.2020	Hessen	8304	353
+30.04.2020	Mecklenburg-Vorpommern	690	17
+30.04.2020	Niedersachsen	10067	416
+30.04.2020	Nordrhein-Westfalen	32687	1219
+30.04.2020	Rheinland-Pfalz	6029	166
+30.04.2020	Saarland	2552	131
+30.04.2020	Sachsen	4561	156
+30.04.2020	Sachsen-Anhalt	1549	43
+30.04.2020	Schleswig-Holstein	2690	106
+30.04.2020	Thüringen	2254	85
+30.04.2020	Gesamt	159119	6288
+30.04.2020	Landeshauptstadt Dresden	559	6
+30.04.2020	Stadt Leipzig	567	7
+30.04.2020	Stadt Chemnitz	197	5
+30.04.2020	Landkreis Bautzen	356	12
+30.04.2020	Erzgebirgskreis	517	40
+30.04.2020	Landkreis Görlitz	255	20
+30.04.2020	Landkreis Leipzig	186	4
+30.04.2020	Landkreis Meißen	220	16
+30.04.2020	Landkreis Mittelsachsen	251	6
+30.04.2020	Landkreis Nordsachsen	138	0
+30.04.2020	Landkreis Sächsische Schweiz-Osterzgebirge	335	2
+30.04.2020	Vogtlandkreis	317	6
+30.04.2020	Landkreis Zwickau	758	34
+30.04.2020	Sachsen_SMS	4656	158
+01.05.2020	Baden-Württemberg	31919	1385
+01.05.2020	Bayern	42489	1850
+01.05.2020	Berlin	5887	149
+01.05.2020	Brandenburg	2872	120
+01.05.2020	Bremen	859	30
+01.05.2020	Hamburg	4604	163
+01.05.2020	Hessen	8376	360
+01.05.2020	Mecklenburg-Vorpommern	693	18
+01.05.2020	Niedersachsen	10141	429
+01.05.2020	Nordrhein-Westfalen	33058	1261
+01.05.2020	Rheinland-Pfalz	6086	172
+01.05.2020	Saarland	2581	135
+01.05.2020	Sachsen	4592	162
+01.05.2020	Sachsen-Anhalt	1564	44
+01.05.2020	Schleswig-Holstein	2714	110
+01.05.2020	Thüringen	2323	93
+01.05.2020	Gesamt	160758	6481
+01.05.2020	Landeshauptstadt Dresden	562	6
+01.05.2020	Stadt Leipzig	567	7
+01.05.2020	Stadt Chemnitz	197	5
+01.05.2020	Landkreis Bautzen	358	12
+01.05.2020	Erzgebirgskreis	520	41
+01.05.2020	Landkreis Görlitz	256	20
+01.05.2020	Landkreis Leipzig	186	4
+01.05.2020	Landkreis Meißen	220	16
+01.05.2020	Landkreis Mittelsachsen	251	6
+01.05.2020	Landkreis Nordsachsen	138	0
+01.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	335	2
+01.05.2020	Vogtlandkreis	323	7
+01.05.2020	Landkreis Zwickau	764	37
+01.05.2020	Sachsen_SMS	4677	163
+02.05.2020	Baden-Württemberg	32146	1402
+02.05.2020	Bayern	42658	1885
+02.05.2020	Berlin	5943	152
+02.05.2020	Brandenburg	2886	122
+02.05.2020	Bremen	871	30
+02.05.2020	Hamburg	4609	163
+02.05.2020	Hessen	8486	364
+02.05.2020	Mecklenburg-Vorpommern	695	18
+02.05.2020	Niedersachsen	10246	451
+02.05.2020	Nordrhein-Westfalen	33216	1268
+02.05.2020	Rheinland-Pfalz	6099	173
+02.05.2020	Saarland	2597	135
+02.05.2020	Sachsen	4617	163
+02.05.2020	Sachsen-Anhalt	1571	44
+02.05.2020	Schleswig-Holstein	2728	112
+02.05.2020	Thüringen	2335	93
+02.05.2020	Gesamt	161703	6575
+02.05.2020	Landeshauptstadt Dresden	568	7
+02.05.2020	Stadt Leipzig	570	7
+02.05.2020	Stadt Chemnitz	199	5
+02.05.2020	Landkreis Bautzen	358	12
+02.05.2020	Erzgebirgskreis	521	41
+02.05.2020	Landkreis Görlitz	262	20
+02.05.2020	Landkreis Leipzig	186	4
+02.05.2020	Landkreis Meißen	221	17
+02.05.2020	Landkreis Mittelsachsen	251	6
+02.05.2020	Landkreis Nordsachsen	138	0
+02.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	335	2
+02.05.2020	Vogtlandkreis	337	7
+02.05.2020	Landkreis Zwickau	769	37
+02.05.2020	Sachsen_SMS	4715	165
+03.05.2020	Baden-Württemberg	32291	1412
+03.05.2020	Bayern	42792	1910
+03.05.2020	Berlin	5976	154
+03.05.2020	Brandenburg	2905	122
+03.05.2020	Bremen	875	30
+03.05.2020	Hamburg	4631	164
+03.05.2020	Hessen	8524	370
+03.05.2020	Mecklenburg-Vorpommern	698	18
+03.05.2020	Niedersachsen	10283	453
+03.05.2020	Nordrhein-Westfalen	33428	1287
+03.05.2020	Rheinland-Pfalz	6133	176
+03.05.2020	Saarland	2605	138
+03.05.2020	Sachsen	4696	165
+03.05.2020	Sachsen-Anhalt	1576	44
+03.05.2020	Schleswig-Holstein	2738	113
+03.05.2020	Thüringen	2345	93
+03.05.2020	Gesamt	162496	6649
+03.05.2020	Landeshauptstadt Dresden	568	7
+03.05.2020	Stadt Leipzig	572	7
+03.05.2020	Stadt Chemnitz	198	5
+03.05.2020	Landkreis Bautzen	358	13
+03.05.2020	Erzgebirgskreis	526	42
+03.05.2020	Landkreis Görlitz	262	20
+03.05.2020	Landkreis Leipzig	186	4
+03.05.2020	Landkreis Meißen	221	17
+03.05.2020	Landkreis Mittelsachsen	251	6
+03.05.2020	Landkreis Nordsachsen	138	0
+03.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	335	2
+03.05.2020	Vogtlandkreis	347	7
+03.05.2020	Landkreis Zwickau	769	37
+03.05.2020	Sachsen_SMS	4731	167
+04.05.2020	Baden-Württemberg	32411	1421
+04.05.2020	Bayern	42997	1926
+04.05.2020	Berlin	6010	154
+04.05.2020	Brandenburg	2914	122
+04.05.2020	Bremen	893	30
+04.05.2020	Hamburg	4636	166
+04.05.2020	Hessen	8549	372
+04.05.2020	Mecklenburg-Vorpommern	699	18
+04.05.2020	Niedersachsen	10325	456
+04.05.2020	Nordrhein-Westfalen	33560	1290
+04.05.2020	Rheinland-Pfalz	6150	177
+04.05.2020	Saarland	2608	139
+04.05.2020	Sachsen	4702	167
+04.05.2020	Sachsen-Anhalt	1578	45
+04.05.2020	Schleswig-Holstein	2788	113
+04.05.2020	Thüringen	2355	96
+04.05.2020	Gesamt	163175	6692
+04.05.2020	Landeshauptstadt Dresden	571	7
+04.05.2020	Stadt Leipzig	572	8
+04.05.2020	Stadt Chemnitz	198	5
+04.05.2020	Landkreis Bautzen	358	13
+04.05.2020	Erzgebirgskreis	527	42
+04.05.2020	Landkreis Görlitz	262	20
+04.05.2020	Landkreis Leipzig	186	4
+04.05.2020	Landkreis Meißen	221	17
+04.05.2020	Landkreis Mittelsachsen	251	6
+04.05.2020	Landkreis Nordsachsen	138	0
+04.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	335	2
+04.05.2020	Vogtlandkreis	358	8
+04.05.2020	Landkreis Zwickau	772	37
+04.05.2020	Sachsen_SMS	4749	169
+05.05.2020	CountryExp	AllConfCases	AllDeaths
+05.05.2020	Baden-Württemberg	32482	1452
+05.05.2020	Bayern	43162	1949
+05.05.2020	Berlin	6042	154
+05.05.2020	Brandenburg	2940	123
+05.05.2020	Bremen	895	31
+05.05.2020	Hamburg	4644	172
+05.05.2020	Hessen	8585	381
+05.05.2020	Mecklenburg-Vorpommern	703	19
+05.05.2020	Niedersachsen	10380	463
+05.05.2020	Nordrhein-Westfalen	33728	1332
+05.05.2020	Rheinland-Pfalz	6160	182
+05.05.2020	Saarland	2618	139
+05.05.2020	Sachsen	4745	171
+05.05.2020	Sachsen-Anhalt	1585	46
+05.05.2020	Schleswig-Holstein	2799	118
+05.05.2020	Thüringen	2392	99
+05.05.2020	Gesamt	163860	6831
+05.05.2020	Landeshauptstadt Dresden	573	7
+05.05.2020	Stadt Leipzig	573	10
+05.05.2020	Stadt Chemnitz	198	5
+05.05.2020	Landkreis Bautzen	361	13
+05.05.2020	Erzgebirgskreis	527	42
+05.05.2020	Landkreis Görlitz	266	20
+05.05.2020	Landkreis Leipzig	186	4
+05.05.2020	Landkreis Meißen	222	17
+05.05.2020	Landkreis Mittelsachsen	251	7
+05.05.2020	Landkreis Nordsachsen	138	0
+05.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	339	2
+05.05.2020	Vogtlandkreis	361	9
+05.05.2020	Landkreis Zwickau	775	38
+05.05.2020	Sachsen_SMS	4770	174
+06.05.2020	Baden-Württemberg	32576	1481
+06.05.2020	Bayern	43371	2001
+06.05.2020	Berlin	6092	159
+06.05.2020	Brandenburg	2969	127
+06.05.2020	Bremen	916	31
+06.05.2020	Hamburg	4664	190
+06.05.2020	Hessen	8642	386
+06.05.2020	Mecklenburg-Vorpommern	711	19
+06.05.2020	Niedersachsen	10453	470
+06.05.2020	Nordrhein-Westfalen	33977	1358
+06.05.2020	Rheinland-Pfalz	6191	187
+06.05.2020	Saarland	2627	141
+06.05.2020	Sachsen	4784	177
+06.05.2020	Sachsen-Anhalt	1590	46
+06.05.2020	Schleswig-Holstein	2815	119
+06.05.2020	Thüringen	2429	104
+06.05.2020	Gesamt	164807	6996
+06.05.2020	Landeshauptstadt Dresden	579	8
+06.05.2020	Stadt Leipzig	578	10
+06.05.2020	Stadt Chemnitz	197	5
+06.05.2020	Landkreis Bautzen	374	13
+06.05.2020	Erzgebirgskreis	533	43
+06.05.2020	Landkreis Görlitz	267	21
+06.05.2020	Landkreis Leipzig	187	4
+06.05.2020	Landkreis Meißen	225	17
+06.05.2020	Landkreis Mittelsachsen	251	7
+06.05.2020	Landkreis Nordsachsen	138	0
+06.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	339	2
+06.05.2020	Vogtlandkreis	365	9
+06.05.2020	Landkreis Zwickau	778	40
+06.05.2020	Sachsen_SMS	4811	179
+datum	CountryExp	AllConfCases	AllDeaths
+07.05.2020	Baden-Württemberg	32762	1497
+07.05.2020	Bayern	43658	2050
+07.05.2020	Berlin	6149	162
+07.05.2020	Brandenburg	2999	129
+07.05.2020	Bremen	963	32
+07.05.2020	Hamburg	4704	194
+07.05.2020	Hessen	8736	396
+07.05.2020	Mecklenburg-Vorpommern	715	19
+07.05.2020	Niedersachsen	10564	478
+07.05.2020	Nordrhein-Westfalen	34249	1372
+07.05.2020	Rheinland-Pfalz	6213	189
+07.05.2020	Saarland	2655	143
+07.05.2020	Sachsen	4836	181
+07.05.2020	Sachsen-Anhalt	1602	48
+07.05.2020	Schleswig-Holstein	2834	120
+07.05.2020	Thüringen	2452	109
+07.05.2020	Gesamt	166091	7119
+07.05.2020	Landeshauptstadt Dresden	584	9
+07.05.2020	Stadt Leipzig	580	10
+07.05.2020	Stadt Chemnitz	198	5
+07.05.2020	Landkreis Bautzen	383	13
+07.05.2020	Erzgebirgskreis	538	43
+07.05.2020	Landkreis Görlitz	267	21
+07.05.2020	Landkreis Leipzig	188	4
+07.05.2020	Landkreis Meißen	225	17
+07.05.2020	Landkreis Mittelsachsen	251	7
+07.05.2020	Landkreis Nordsachsen	140	0
+07.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	339	2
+07.05.2020	Vogtlandkreis	370	10
+07.05.2020	Landkreis Zwickau	794	40
+07.05.2020	Sachsen_SMS	4857	181
+08.05.2020	Baden-Württemberg	32898	1515
+08.05.2020	Bayern	43905	2114
+08.05.2020	Berlin	6209	163
+08.05.2020	Brandenburg	3037	131
+08.05.2020	Bremen	997	32
+08.05.2020	Hamburg	4753	201
+08.05.2020	Hessen	8850	403
+08.05.2020	Mecklenburg-Vorpommern	718	19
+08.05.2020	Niedersachsen	10686	493
+08.05.2020	Nordrhein-Westfalen	34522	1397
+08.05.2020	Rheinland-Pfalz	6241	192
+08.05.2020	Saarland	2658	140
+08.05.2020	Sachsen	4839	184
+08.05.2020	Sachsen-Anhalt	1615	48
+08.05.2020	Schleswig-Holstein	2860	122
+08.05.2020	Thüringen	2512	112
+08.05.2020	Gesamt	167300	7266
+08.05.2020	Landeshauptstadt Dresden	584	9
+08.05.2020	Stadt Leipzig	583	10
+08.05.2020	Stadt Chemnitz	199	5
+08.05.2020	Landkreis Bautzen	390	13
+08.05.2020	Erzgebirgskreis	539	43
+08.05.2020	Landkreis Görlitz	268	22
+08.05.2020	Landkreis Leipzig	188	4
+08.05.2020	Landkreis Meißen	225	18
+08.05.2020	Landkreis Mittelsachsen	251	7
+08.05.2020	Landkreis Nordsachsen	140	0
+08.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	343	2
+08.05.2020	Vogtlandkreis	377	10
+08.05.2020	Landkreis Zwickau	797	43
+08.05.2020	Sachsen_SMS	4884	186
+09.05.2020	Baden-Württemberg	33105	1534
+09.05.2020	Bayern	44169	2147
+09.05.2020	Berlin	6242	164
+09.05.2020	Brandenburg	3098	133
+09.05.2020	Bremen	1024	32
+09.05.2020	Hamburg	4772	204
+09.05.2020	Hessen	8916	408
+09.05.2020	Mecklenburg-Vorpommern	722	19
+09.05.2020	Niedersachsen	10803	496
+09.05.2020	Nordrhein-Westfalen	34817	1424
+09.05.2020	Rheinland-Pfalz	6282	195
+09.05.2020	Saarland	2660	142
+09.05.2020	Sachsen	4873	186
+09.05.2020	Sachsen-Anhalt	1637	48
+09.05.2020	Schleswig-Holstein	2898	122
+09.05.2020	Thüringen	2533	115
+09.05.2020	Gesamt	168551	7369
+09.05.2020	Landeshauptstadt Dresden	584	9
+09.05.2020	Stadt Leipzig	586	10
+09.05.2020	Stadt Chemnitz	199	5
+09.05.2020	Landkreis Bautzen	394	13
+09.05.2020	Erzgebirgskreis	541	43
+09.05.2020	Landkreis Görlitz	268	22
+09.05.2020	Landkreis Leipzig	188	4
+09.05.2020	Landkreis Meißen	225	19
+09.05.2020	Landkreis Mittelsachsen	251	7
+09.05.2020	Landkreis Nordsachsen	140	0
+09.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	347	2
+09.05.2020	Vogtlandkreis	389	10
+09.05.2020	Landkreis Zwickau	806	43
+09.05.2020	Sachsen_SMS	4918	187
+10.05.2020	Baden-Württemberg	33287	1542
+10.05.2020	Bayern	44265	2153
+10.05.2020	Berlin	6261	165
+10.05.2020	Brandenburg	3101	134
+10.05.2020	Bremen	1043	32
+10.05.2020	Hamburg	4772	204
+10.05.2020	Hessen	8998	411
+10.05.2020	Mecklenburg-Vorpommern	726	19
+10.05.2020	Niedersachsen	10827	498
+10.05.2020	Nordrhein-Westfalen	34964	1425
+10.05.2020	Rheinland-Pfalz	6291	195
+10.05.2020	Saarland	2663	142
+10.05.2020	Sachsen	4886	187
+10.05.2020	Sachsen-Anhalt	1640	48
+10.05.2020	Schleswig-Holstein	2938	123
+10.05.2020	Thüringen	2556	117
+10.05.2020	Gesamt	169218	7395
+10.05.2020	Landeshauptstadt Dresden	584	9
+10.05.2020	Stadt Leipzig	587	10
+10.05.2020	Stadt Chemnitz	199	5
+10.05.2020	Landkreis Bautzen	417	13
+10.05.2020	Erzgebirgskreis	541	43
+10.05.2020	Landkreis Görlitz	268	22
+10.05.2020	Landkreis Leipzig	188	4
+10.05.2020	Landkreis Meißen	226	19
+10.05.2020	Landkreis Mittelsachsen	251	7
+10.05.2020	Landkreis Nordsachsen	140	0
+10.05.2020	Landkreis Sächsische Schweiz-Osterzgebirge	347	2
+10.05.2020	Vogtlandkreis	389	10
+10.05.2020	Landkreis Zwickau	810	43
+10.05.2020	Sachsen_SMS	4947	187
